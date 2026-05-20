@@ -1,0 +1,15 @@
+Nykaa website opened
+Login popup opened
+Mobile number entered
+Perfume searched successfully
+Sort operation completed
+First fragrance product opened
+Product page verified
+Product added to bag
+Bag opened
+Bag verified
+Checkout button not found
+Checkout page verified
+Remove button not found
+Screenshot captured
+END TO END TEST PASSED SUCCESSFULLY

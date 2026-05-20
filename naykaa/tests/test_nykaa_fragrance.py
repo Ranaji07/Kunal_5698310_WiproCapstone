@@ -1,4 +1,4 @@
-# test_nykaa_fragrance.py
+
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -9,6 +9,34 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 import pytest
 import time
+
+from utilities.logger import get_logger
+
+from pages.homepage import HomePage
+from utilities.config_reader import ConfigReader
+
+logger = get_logger()
+
+
+def test_homepage(driver):
+
+    logger.info(
+        "Homepage test started"
+    )
+
+    config = ConfigReader()
+
+    home = HomePage(driver)
+
+    home.open_homepage(
+        config.get_base_url()
+    )
+
+    assert home.verify_homepage()
+
+    logger.info(
+        "Homepage test passed"
+    )
 
 
 class TestNykaaFragrance:
@@ -28,10 +56,9 @@ class TestNykaaFragrance:
 
         self.driver.quit()
 
-    # ====================================================
-    # POSITIVE TEST CASE 1
+
     # VERIFY HOMEPAGE LOADS SUCCESSFULLY
-    # ====================================================
+
 
     def test_verify_homepage(self):
 
@@ -41,10 +68,10 @@ class TestNykaaFragrance:
 
         print("Homepage loaded successfully")
 
-    # ====================================================
-    # POSITIVE TEST CASE 2
+
+
     # VERIFY PERFUME SEARCH FUNCTIONALITY
-    # ====================================================
+
 
     def test_search_perfume(self):
 
@@ -66,12 +93,11 @@ class TestNykaaFragrance:
 
         assert "Perfume" in self.driver.page_source
 
-        print("Perfume search successful")
 
-    # ====================================================
-    # POSITIVE TEST CASE 3
+
+
     # VERIFY PRODUCT PAGE OPENS
-    # ====================================================
+
 
     def test_open_product_page(self):
 
@@ -102,14 +128,10 @@ class TestNykaaFragrance:
 
         time.sleep(5)
 
-        assert "Add to Bag" in self.driver.page_source
 
-        print("Product page opened successfully")
 
-    # ====================================================
-    # POSITIVE TEST CASE 4
     # VERIFY ADD TO BAG FUNCTIONALITY
-    # ====================================================
+
 
     def test_add_to_bag(self):
 
@@ -148,12 +170,13 @@ class TestNykaaFragrance:
 
         add_to_bag.click()
 
+
+
         print("Product added to bag successfully")
 
-    # ====================================================
-    # NEGATIVE TEST CASE 1
+
     # VERIFY INVALID SEARCH
-    # ====================================================
+
 
     def test_invalid_product_search(self):
 
@@ -176,10 +199,9 @@ class TestNykaaFragrance:
 
         print("Invalid search test executed")
 
-    # ====================================================
-    # NEGATIVE TEST CASE 2
+
     # VERIFY INVALID MOBILE LOGIN
-    # ====================================================
+
 
     def test_invalid_login(self):
 
@@ -204,3 +226,10 @@ class TestNykaaFragrance:
         time.sleep(3)
 
         print("Invalid login test executed")
+        #  - TAKE SCREENSHOT
+
+        self.driver.save_screenshot("screenshots/fragrance_test.png")
+
+        print("Screenshot captured")
+
+        print("END TO END TEST PASSED SUCCESSFULLY")

@@ -8,6 +8,32 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 import time
+import logging
+
+
+def get_logger():
+
+    logger = logging.getLogger()
+
+    logger.setLevel(logging.INFO)
+
+    file_handler = logging.FileHandler(
+        "logs/automation.log"
+    )
+
+    formatter = logging.Formatter(
+        "%(asctime)s - %(levelname)s - %(message)s"
+    )
+
+    file_handler.setFormatter(
+        formatter
+    )
+
+    logger.addHandler(
+        file_handler
+    )
+
+    return logger
 
 
 class TestNykaaFragranceE2E:
@@ -31,9 +57,9 @@ class TestNykaaFragranceE2E:
         driver = self.driver
         wait = self.wait
 
-        # =========================
+
         # STEP 1 - OPEN NYKAA
-        # =========================
+
 
         driver.get("https://www.nykaa.com/")
 
@@ -41,9 +67,9 @@ class TestNykaaFragranceE2E:
 
         assert "Nykaa" in driver.title
 
-        # =========================
+
         # STEP 2 - LOGIN OPERATION
-        # =========================
+
 
         login_button = wait.until(
             EC.element_to_be_clickable(
@@ -53,7 +79,7 @@ class TestNykaaFragranceE2E:
 
         login_button.click()
 
-        print("Login popup opened")
+
 
         # ENTER MOBILE NUMBER
 
@@ -65,31 +91,9 @@ class TestNykaaFragranceE2E:
 
         mobile_input.send_keys("9876543210")
 
-        print("Mobile number entered")
 
-        # CLICK SEND OTP
-        #
-        # send_otp_button = wait.until(
-        #     EC.element_to_be_clickable(
-        #         (By.XPATH, "//button[contains(text(),'Send OTP')]")
-        #     )
-        # )
-        #
-        # send_otp_button.click()
-        #
-        # print("OTP sent")
-
-        # MANUAL OTP ENTRY
-        #
-        # input("Enter OTP manually in browser and press ENTER here...")
-        #
-        # print("OTP entered manually")
-        #
-        # time.sleep(30)
-
-        # =========================
         # STEP 3 - SEARCH PRODUCT
-        # =========================
+
 
         search_box = wait.until(
             EC.presence_of_element_located(
@@ -103,13 +107,13 @@ class TestNykaaFragranceE2E:
 
         search_box.send_keys(Keys.ENTER)
 
-        print("Perfume searched successfully")
+
 
         time.sleep(10)
 
-        # =========================
+
         # STEP 4 - APPLY SORT
-        # =========================
+
 
         try:
 
@@ -121,7 +125,7 @@ class TestNykaaFragranceE2E:
 
             sort_button.click()
 
-            print("Sort operation completed")
+
 
         except:
 
@@ -129,9 +133,9 @@ class TestNykaaFragranceE2E:
 
         time.sleep(10)
 
-        # =========================
+
         # STEP 5 - OPEN FIRST PRODUCT
-        # =========================
+
 
         products = driver.find_elements(
             By.XPATH,
@@ -140,7 +144,7 @@ class TestNykaaFragranceE2E:
 
         products[0].click()
 
-        print("First fragrance product opened")
+
 
         # SWITCH TO NEW TAB
 
@@ -150,17 +154,17 @@ class TestNykaaFragranceE2E:
 
         time.sleep(5)
 
-        # =========================
+
         # STEP 6 - VERIFY PRODUCT PAGE
-        # =========================
+
 
         assert "Add to Bag" in driver.page_source
 
-        print("Product page verified")
 
-        # =========================
+
+
         # STEP 7 - ADD PRODUCT TO BAG
-        # =========================
+
 
         add_to_bag = wait.until(
             EC.element_to_be_clickable(
@@ -170,13 +174,13 @@ class TestNykaaFragranceE2E:
 
         add_to_bag.click()
 
-        print("Product added to bag")
+
 
         time.sleep(5)
 
-        # =========================
+
         # STEP 8 - OPEN BAG
-        # =========================
+
         def click_bag(self):
             bag_click = self.wait.until(
                 EC.element_to_be_clickable(
@@ -195,7 +199,7 @@ class TestNykaaFragranceE2E:
 
             bag_button.click()
 
-            print("Bag opened")
+
 
         except:
 
@@ -203,17 +207,17 @@ class TestNykaaFragranceE2E:
 
         time.sleep(5)
 
-        # =========================
+
         # STEP 9 - VERIFY BAG PAGE
-        # =========================
+
 
         assert "Bag" in driver.page_source
 
-        print("Bag verified")
 
-        # =========================
+
+
         # STEP 10 - CHECKOUT OPERATION
-        # =========================
+
 
         try:
 
@@ -225,7 +229,7 @@ class TestNykaaFragranceE2E:
 
             checkout_button.click()
 
-            print("Checkout process started")
+
 
         except:
 
@@ -233,9 +237,9 @@ class TestNykaaFragranceE2E:
 
         time.sleep(5)
 
-        # =========================
+
         # STEP 11 - VERIFY CHECKOUT PAGE
-        # =========================
+
 
         try:
 
@@ -248,30 +252,11 @@ class TestNykaaFragranceE2E:
 
             print("Checkout page verification failed")
 
-        # =========================
-        # STEP 12 - REMOVE PRODUCT
-        # =========================
 
-        remove_buttons = driver.find_elements(
-            By.XPATH,
-            "//span[contains(text(),'Remove')]"
-        )
 
-        if len(remove_buttons) > 0:
 
-            remove_buttons[0].click()
+        # STEP - TAKE SCREENSHOT
 
-            print("Product removed from bag")
-
-        else:
-
-            print("Remove button not found")
-
-        time.sleep(3)
-
-        # =========================
-        # STEP 13 - TAKE SCREENSHOT
-        # =========================
 
         driver.save_screenshot("screenshots/fragrance_test.png")
 
