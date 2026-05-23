@@ -1,0 +1,2076 @@
+2026-05-22 23:32:47,508 - INFO - ====== WebDriver manager ======
+2026-05-22 23:32:47,991 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:32:49,059 - INFO - STARTED SCENARIO : Complete fragrance purchase flow
+2026-05-22 23:32:51,974 - INFO - Nykaa website launched successfully
+2026-05-22 23:32:52,281 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:32:52,281 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_233251_20260522_233251.png
+2026-05-22 23:32:55,735 - INFO - Product searched successfully : Perfume
+2026-05-22 23:33:00,870 - INFO - ENDED SCENARIO : Complete fragrance purchase flow
+2026-05-22 23:33:03,050 - INFO - ====== WebDriver manager ======
+2026-05-22 23:33:03,448 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:33:04,523 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-22 23:33:06,778 - INFO - Nykaa website launched successfully
+2026-05-22 23:33:07,165 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:33:07,165 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_233306_20260522_233306.png
+2026-05-22 23:33:07,301 - INFO - Searching product : Perfume
+2026-05-22 23:33:07,575 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-22 23:33:09,695 - INFO - ====== WebDriver manager ======
+2026-05-22 23:33:10,086 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:33:11,133 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-22 23:33:12,461 - INFO - Nykaa website launched successfully
+2026-05-22 23:33:12,828 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:33:12,828 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_233312_20260522_233312.png
+2026-05-22 23:33:13,424 - INFO - Searching product : Dior
+2026-05-22 23:33:13,725 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-22 23:33:15,850 - INFO - ====== WebDriver manager ======
+2026-05-22 23:33:16,263 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:33:17,336 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-22 23:33:18,844 - INFO - Nykaa website launched successfully
+2026-05-22 23:33:19,061 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:33:19,062 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_233318_20260522_233318.png
+2026-05-22 23:33:19,738 - INFO - Searching product : Gucci
+2026-05-22 23:33:20,031 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-22 23:33:22,177 - INFO - ====== WebDriver manager ======
+2026-05-22 23:33:22,565 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:33:23,621 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-22 23:33:25,941 - INFO - Nykaa website launched successfully
+2026-05-22 23:33:26,527 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:33:26,528 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_233325_20260522_233325.png
+2026-05-22 23:33:26,647 - INFO - Searching product : Cologne
+2026-05-22 23:33:27,044 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-22 23:33:29,151 - INFO - ====== WebDriver manager ======
+2026-05-22 23:33:29,658 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:33:30,724 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-22 23:33:33,059 - INFO - Nykaa website launched successfully
+2026-05-22 23:33:33,445 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:33:33,446 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_233333_20260522_233333.png
+2026-05-22 23:33:33,540 - INFO - Searching product : @@@@@@@
+2026-05-22 23:33:33,824 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-22 23:33:35,947 - INFO - ====== WebDriver manager ======
+2026-05-22 23:33:36,366 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:35:26,248 - INFO - ====== WebDriver manager ======
+2026-05-22 23:35:26,710 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:35:27,783 - INFO - STARTED SCENARIO : Complete fragrance purchase flow
+2026-05-22 23:35:30,636 - INFO - Nykaa website launched successfully
+2026-05-22 23:35:30,957 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:35:30,957 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_233530_20260522_233530.png
+2026-05-22 23:35:34,324 - INFO - Product searched successfully : Perfume
+2026-05-22 23:35:39,478 - INFO - ENDED SCENARIO : Complete fragrance purchase flow
+2026-05-22 23:35:41,664 - INFO - ====== WebDriver manager ======
+2026-05-22 23:35:42,065 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:35:43,134 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-22 23:35:45,336 - INFO - Nykaa website launched successfully
+2026-05-22 23:35:45,678 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:35:45,678 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_233545_20260522_233545.png
+2026-05-22 23:35:45,820 - INFO - Searching product : Perfume
+2026-05-22 23:35:46,072 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-22 23:35:48,191 - INFO - ====== WebDriver manager ======
+2026-05-22 23:35:48,583 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:35:49,655 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-22 23:35:51,893 - INFO - Nykaa website launched successfully
+2026-05-22 23:35:52,181 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:35:52,181 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_233551_20260522_233551.png
+2026-05-22 23:35:52,328 - INFO - Searching product : Dior
+2026-05-22 23:35:52,563 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-22 23:35:54,699 - INFO - ====== WebDriver manager ======
+2026-05-22 23:35:55,115 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:35:56,184 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-22 23:35:57,762 - INFO - Nykaa website launched successfully
+2026-05-22 23:35:58,083 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:35:58,083 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_233557_20260522_233557.png
+2026-05-22 23:35:58,419 - INFO - Searching product : Gucci
+2026-05-22 23:35:58,681 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-22 23:36:00,809 - INFO - ====== WebDriver manager ======
+2026-05-22 23:36:01,200 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:36:02,270 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-22 23:36:04,554 - INFO - Nykaa website launched successfully
+2026-05-22 23:36:04,912 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:36:04,912 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_233604_20260522_233604.png
+2026-05-22 23:36:05,017 - INFO - Searching product : Cologne
+2026-05-22 23:36:05,234 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-22 23:36:07,385 - INFO - ====== WebDriver manager ======
+2026-05-22 23:36:07,783 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:36:08,832 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-22 23:36:11,688 - INFO - Nykaa website launched successfully
+2026-05-22 23:36:12,026 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:36:12,026 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_233611_20260522_233611.png
+2026-05-22 23:36:12,139 - INFO - Searching product : @@@@@@@
+2026-05-22 23:36:12,371 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-22 23:36:14,510 - INFO - ====== WebDriver manager ======
+2026-05-22 23:36:14,899 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:36:15,972 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-22 23:36:17,880 - INFO - Nykaa website launched successfully
+2026-05-22 23:36:18,284 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:36:18,284 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_233617_20260522_233617.png
+2026-05-22 23:36:18,598 - INFO - Searching product : invalidproduct
+2026-05-22 23:36:18,850 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-22 23:39:20,080 - INFO - ====== WebDriver manager ======
+2026-05-22 23:39:20,720 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:39:21,791 - INFO - STARTED SCENARIO : Complete fragrance purchase flow
+2026-05-22 23:39:23,680 - INFO - Nykaa website opened successfully
+2026-05-22 23:39:24,039 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:39:24,039 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_233923_20260522_233923.png
+2026-05-22 23:39:27,422 - INFO - Product searched : Perfume
+2026-05-22 23:39:32,558 - INFO - ENDED SCENARIO : Complete fragrance purchase flow
+2026-05-22 23:39:34,710 - INFO - ====== WebDriver manager ======
+2026-05-22 23:39:35,108 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:39:36,170 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-22 23:39:38,075 - INFO - Nykaa website opened successfully
+2026-05-22 23:39:38,452 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:39:38,452 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_233938_20260522_233938.png
+2026-05-22 23:39:38,571 - INFO - Searching product : Perfume
+2026-05-22 23:39:38,788 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-22 23:39:40,903 - INFO - ====== WebDriver manager ======
+2026-05-22 23:39:41,307 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:39:42,379 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-22 23:39:44,737 - INFO - Nykaa website opened successfully
+2026-05-22 23:39:45,003 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:39:45,004 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_233944_20260522_233944.png
+2026-05-22 23:39:45,114 - INFO - Searching product : Dior
+2026-05-22 23:39:45,323 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-22 23:39:47,463 - INFO - ====== WebDriver manager ======
+2026-05-22 23:39:47,854 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:39:48,923 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-22 23:39:50,243 - INFO - Nykaa website opened successfully
+2026-05-22 23:39:50,595 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:39:50,596 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_233950_20260522_233950.png
+2026-05-22 23:39:50,897 - INFO - Searching product : Gucci
+2026-05-22 23:39:51,125 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-22 23:39:53,253 - INFO - ====== WebDriver manager ======
+2026-05-22 23:39:53,647 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:39:54,694 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-22 23:39:56,435 - INFO - Nykaa website opened successfully
+2026-05-22 23:39:56,968 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:39:56,968 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_233956_20260522_233956.png
+2026-05-22 23:39:57,085 - INFO - Searching product : Cologne
+2026-05-22 23:39:57,308 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-22 23:39:59,460 - INFO - ====== WebDriver manager ======
+2026-05-22 23:39:59,879 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:40:00,949 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-22 23:40:02,396 - INFO - Nykaa website opened successfully
+2026-05-22 23:40:02,968 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:40:02,969 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_234002_20260522_234002.png
+2026-05-22 23:40:03,189 - INFO - Searching product : @@@@@@@
+2026-05-22 23:40:03,481 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-22 23:40:05,611 - INFO - ====== WebDriver manager ======
+2026-05-22 23:40:06,048 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:40:07,136 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-22 23:40:08,692 - INFO - Nykaa website opened successfully
+2026-05-22 23:40:09,185 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:40:09,185 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_234008_20260522_234008.png
+2026-05-22 23:40:09,432 - INFO - Searching product : invalidproduct
+2026-05-22 23:40:09,716 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-22 23:50:44,179 - INFO - ====== WebDriver manager ======
+2026-05-22 23:50:44,645 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:50:45,772 - INFO - STARTED SCENARIO : Complete fragrance purchase flow
+2026-05-22 23:50:48,192 - INFO - Nykaa website opened successfully
+2026-05-22 23:50:48,489 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:50:48,489 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_235048_20260522_235048.png
+2026-05-22 23:50:52,132 - INFO - Product searched : Perfume
+2026-05-22 23:50:57,293 - INFO - ENDED SCENARIO : Complete fragrance purchase flow
+2026-05-22 23:50:59,483 - INFO - ====== WebDriver manager ======
+2026-05-22 23:50:59,882 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:51:01,057 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-22 23:51:02,429 - INFO - Nykaa website opened successfully
+2026-05-22 23:51:02,858 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:51:02,858 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_235102_20260522_235102.png
+2026-05-22 23:51:03,215 - INFO - Searching product : Perfume
+2026-05-22 23:51:03,495 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-22 23:51:05,629 - INFO - ====== WebDriver manager ======
+2026-05-22 23:51:06,046 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:51:07,159 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-22 23:51:09,066 - INFO - Nykaa website opened successfully
+2026-05-22 23:51:09,341 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:51:09,342 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_235109_20260522_235109.png
+2026-05-22 23:51:09,884 - INFO - Searching product : Dior
+2026-05-22 23:51:10,181 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-22 23:51:12,323 - INFO - ====== WebDriver manager ======
+2026-05-22 23:51:12,761 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:51:13,886 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-22 23:51:15,978 - INFO - Nykaa website opened successfully
+2026-05-22 23:51:16,316 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:51:16,316 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_235115_20260522_235115.png
+2026-05-22 23:51:16,446 - INFO - Searching product : Gucci
+2026-05-22 23:51:16,709 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-22 23:51:18,833 - INFO - ====== WebDriver manager ======
+2026-05-22 23:51:19,247 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:51:20,331 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-22 23:51:22,973 - INFO - Nykaa website opened successfully
+2026-05-22 23:51:23,293 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:51:23,293 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_235122_20260522_235122.png
+2026-05-22 23:51:23,425 - INFO - Searching product : Cologne
+2026-05-22 23:51:23,704 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-22 23:51:25,833 - INFO - ====== WebDriver manager ======
+2026-05-22 23:51:26,229 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:51:27,331 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-22 23:51:28,704 - INFO - Nykaa website opened successfully
+2026-05-22 23:51:29,161 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:51:29,161 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_235128_20260522_235128.png
+2026-05-22 23:51:29,444 - INFO - Searching product : @@@@@@@
+2026-05-22 23:51:29,707 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-22 23:51:31,828 - INFO - ====== WebDriver manager ======
+2026-05-22 23:51:32,254 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:51:33,364 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-22 23:51:34,998 - INFO - Nykaa website opened successfully
+2026-05-22 23:51:35,254 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:51:35,254 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_235134_20260522_235134.png
+2026-05-22 23:51:35,632 - INFO - Searching product : invalidproduct
+2026-05-22 23:51:36,005 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-22 23:53:41,890 - INFO - ====== WebDriver manager ======
+2026-05-22 23:53:42,344 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:53:43,464 - INFO - STARTED SCENARIO : Complete fragrance purchase flow
+2026-05-22 23:53:45,621 - INFO - Nykaa website opened successfully
+2026-05-22 23:53:45,915 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:53:45,915 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_235345_20260522_235345.png
+2026-05-22 23:53:49,461 - INFO - Product searched : Perfume
+2026-05-22 23:53:54,622 - INFO - STEP EXECUTED : User searches for "Perfume"
+2026-05-22 23:53:54,623 - INFO - SCREENSHOT SAVED : screenshots/User searches for Perfume_235354_20260522_235354.png
+2026-05-22 23:54:14,787 - INFO - STEP EXECUTED : User selects first fragrance
+2026-05-22 23:54:14,787 - INFO - SCREENSHOT SAVED : screenshots/User selects first fragrance_235414_20260522_235414.png
+2026-05-22 23:54:14,789 - INFO - ENDED SCENARIO : Complete fragrance purchase flow
+2026-05-22 23:54:16,994 - INFO - ====== WebDriver manager ======
+2026-05-22 23:54:17,386 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:54:18,491 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-22 23:54:20,730 - INFO - Nykaa website opened successfully
+2026-05-22 23:54:21,172 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:54:21,172 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_235420_20260522_235420.png
+2026-05-22 23:54:21,306 - INFO - Searching product : Perfume
+2026-05-22 23:54:21,521 - INFO - STEP EXECUTED : User searches fragrance product "Perfume"
+2026-05-22 23:54:21,521 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Perfume_235421_20260522_235421.png
+2026-05-22 23:54:41,914 - INFO - STEP EXECUTED : Search results should appear
+2026-05-22 23:54:41,914 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_235441_20260522_235441.png
+2026-05-22 23:54:41,915 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-22 23:54:44,066 - INFO - ====== WebDriver manager ======
+2026-05-22 23:54:44,468 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:54:45,580 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-22 23:54:48,185 - INFO - Nykaa website opened successfully
+2026-05-22 23:54:48,530 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:54:48,531 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_235448_20260522_235448.png
+2026-05-22 23:54:48,629 - INFO - Searching product : Dior
+2026-05-22 23:54:48,847 - INFO - STEP EXECUTED : User searches fragrance product "Dior"
+2026-05-22 23:54:48,847 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Dior_235448_20260522_235448.png
+2026-05-22 23:55:09,459 - INFO - STEP EXECUTED : Search results should appear
+2026-05-22 23:55:09,459 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_235509_20260522_235509.png
+2026-05-22 23:55:09,460 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-22 23:55:11,630 - INFO - ====== WebDriver manager ======
+2026-05-22 23:55:12,021 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:55:13,110 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-22 23:55:15,376 - INFO - Nykaa website opened successfully
+2026-05-22 23:55:15,661 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:55:15,661 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_235515_20260522_235515.png
+2026-05-22 23:55:15,813 - INFO - Searching product : Gucci
+2026-05-22 23:55:16,054 - INFO - STEP EXECUTED : User searches fragrance product "Gucci"
+2026-05-22 23:55:16,054 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Gucci_235515_20260522_235515.png
+2026-05-22 23:55:36,406 - INFO - STEP EXECUTED : Search results should appear
+2026-05-22 23:55:36,406 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_235536_20260522_235536.png
+2026-05-22 23:55:36,407 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-22 23:55:38,574 - INFO - ====== WebDriver manager ======
+2026-05-22 23:55:38,978 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:55:40,137 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-22 23:55:42,484 - INFO - Nykaa website opened successfully
+2026-05-22 23:55:42,794 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:55:42,795 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_235542_20260522_235542.png
+2026-05-22 23:55:42,901 - INFO - Searching product : Cologne
+2026-05-22 23:55:43,167 - INFO - STEP EXECUTED : User searches fragrance product "Cologne"
+2026-05-22 23:55:43,167 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Cologne_235542_20260522_235542.png
+2026-05-22 23:56:03,694 - INFO - STEP EXECUTED : Search results should appear
+2026-05-22 23:56:03,694 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_235603_20260522_235603.png
+2026-05-22 23:56:03,695 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-22 23:56:05,896 - INFO - ====== WebDriver manager ======
+2026-05-22 23:56:06,595 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:56:07,939 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-22 23:56:11,218 - INFO - Nykaa website opened successfully
+2026-05-22 23:56:11,531 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:56:11,531 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_235611_20260522_235611.png
+2026-05-22 23:56:11,753 - INFO - Searching product : @@@@@@@
+2026-05-22 23:56:12,123 - INFO - STEP EXECUTED : User searches fragrance product "@@@@@@@"
+2026-05-22 23:56:12,124 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product @@@@@@@_235611_20260522_235611.png
+2026-05-22 23:56:12,293 - INFO - Negative validation successful for @@@@@@@
+2026-05-22 23:56:12,570 - INFO - STEP EXECUTED : Invalid search message should appear
+2026-05-22 23:56:12,570 - INFO - SCREENSHOT SAVED : screenshots/Invalid search message should appear_235612_20260522_235612.png
+2026-05-22 23:56:12,571 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-22 23:56:14,747 - INFO - ====== WebDriver manager ======
+2026-05-22 23:56:15,497 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-22 23:56:16,812 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-22 23:56:22,242 - INFO - Nykaa website opened successfully
+2026-05-22 23:56:22,540 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-22 23:56:22,540 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_235622_20260522_235622.png
+2026-05-22 23:56:22,733 - INFO - Searching product : invalidproduct
+2026-05-22 23:56:22,999 - INFO - STEP EXECUTED : User searches fragrance product "invalidproduct"
+2026-05-22 23:56:22,999 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product invalidproduct_235622_20260522_235622.png
+2026-05-22 23:56:23,198 - INFO - Negative validation successful for invalidproduct
+2026-05-22 23:56:23,441 - INFO - STEP EXECUTED : Invalid search message should appear
+2026-05-22 23:56:23,441 - INFO - SCREENSHOT SAVED : screenshots/Invalid search message should appear_235623_20260522_235623.png
+2026-05-22 23:56:23,442 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-23 00:05:50,203 - INFO - ====== WebDriver manager ======
+2026-05-23 00:05:51,200 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-23 00:05:52,580 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-23 00:05:54,003 - INFO - WebDriver version 147.0.7727.117 selected
+2026-05-23 00:05:54,012 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.117/win64/chromedriver-win64.zip
+2026-05-23 00:05:54,013 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.117/win64/chromedriver-win64.zip
+2026-05-23 00:05:54,644 - INFO - Driver downloading response is 200
+2026-05-23 00:05:57,076 - INFO - Driver has been saved in cache [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117]
+2026-05-23 00:05:58,692 - INFO - STARTED SCENARIO : Complete fragrance purchase flow
+2026-05-23 00:06:04,233 - INFO - Nykaa website opened successfully
+2026-05-23 00:06:04,611 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:06:04,611 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_000604_20260523_000604.png
+2026-05-23 00:06:08,952 - INFO - Product searched : Perfume
+2026-05-23 00:06:14,130 - INFO - STEP EXECUTED : User searches for "Perfume"
+2026-05-23 00:06:14,130 - INFO - SCREENSHOT SAVED : screenshots/User searches for Perfume_000613_20260523_000613.png
+2026-05-23 00:06:19,532 - INFO - First fragrance selected successfully
+2026-05-23 00:06:24,799 - INFO - STEP EXECUTED : User selects first fragrance
+2026-05-23 00:06:24,799 - INFO - SCREENSHOT SAVED : screenshots/User selects first fragrance_000624_20260523_000624.png
+2026-05-23 00:06:24,891 - INFO - Product title verified : Nykaa Wanderlust Dreaming Of Paris EDP Fruity Champagne & Berries - Long Lasting Fragrance Day+Night
+(50ml)
+2026-05-23 00:06:25,123 - INFO - STEP EXECUTED : Product title should be visible
+2026-05-23 00:06:25,123 - INFO - SCREENSHOT SAVED : screenshots/Product title should be visible_000624_20260523_000624.png
+2026-05-23 00:06:45,470 - INFO - STEP EXECUTED : User adds product to cart
+2026-05-23 00:06:45,471 - INFO - SCREENSHOT SAVED : screenshots/User adds product to cart_000645_20260523_000645.png
+2026-05-23 00:06:45,473 - INFO - ENDED SCENARIO : Complete fragrance purchase flow
+2026-05-23 00:06:47,744 - INFO - ====== WebDriver manager ======
+2026-05-23 00:06:48,541 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:06:49,979 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-23 00:06:52,258 - INFO - Nykaa website opened successfully
+2026-05-23 00:06:52,612 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:06:52,612 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_000652_20260523_000652.png
+2026-05-23 00:06:52,782 - INFO - Searching product : Perfume
+2026-05-23 00:06:53,062 - INFO - STEP EXECUTED : User searches fragrance product "Perfume"
+2026-05-23 00:06:53,062 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Perfume_000652_20260523_000652.png
+2026-05-23 00:06:58,131 - INFO - Search results verified for Perfume
+2026-05-23 00:06:58,425 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:06:58,426 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_000658_20260523_000658.png
+2026-05-23 00:06:58,427 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-23 00:07:00,591 - INFO - ====== WebDriver manager ======
+2026-05-23 00:07:01,399 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:07:02,668 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-23 00:07:08,273 - INFO - Nykaa website opened successfully
+2026-05-23 00:07:08,594 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:07:08,594 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_000708_20260523_000708.png
+2026-05-23 00:07:08,779 - INFO - Searching product : Dior
+2026-05-23 00:07:09,073 - INFO - STEP EXECUTED : User searches fragrance product "Dior"
+2026-05-23 00:07:09,073 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Dior_000708_20260523_000708.png
+2026-05-23 00:07:14,114 - INFO - Search results verified for Dior
+2026-05-23 00:07:14,606 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:07:14,606 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_000714_20260523_000714.png
+2026-05-23 00:07:14,607 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-23 00:07:16,825 - INFO - ====== WebDriver manager ======
+2026-05-23 00:07:17,612 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:07:18,931 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-23 00:07:21,391 - INFO - Nykaa website opened successfully
+2026-05-23 00:07:21,729 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:07:21,729 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_000721_20260523_000721.png
+2026-05-23 00:07:21,945 - INFO - Searching product : Gucci
+2026-05-23 00:07:22,230 - INFO - STEP EXECUTED : User searches fragrance product "Gucci"
+2026-05-23 00:07:22,230 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Gucci_000721_20260523_000721.png
+2026-05-23 00:07:27,285 - INFO - Search results verified for Gucci
+2026-05-23 00:07:27,579 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:07:27,579 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_000727_20260523_000727.png
+2026-05-23 00:07:27,580 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-23 00:07:29,754 - INFO - ====== WebDriver manager ======
+2026-05-23 00:07:30,500 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:07:31,128 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-23 00:07:32,621 - INFO - Nykaa website opened successfully
+2026-05-23 00:07:33,305 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:07:33,305 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_000732_20260523_000732.png
+2026-05-23 00:07:33,562 - INFO - Searching product : Cologne
+2026-05-23 00:07:33,819 - INFO - STEP EXECUTED : User searches fragrance product "Cologne"
+2026-05-23 00:07:33,819 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Cologne_000733_20260523_000733.png
+2026-05-23 00:07:38,879 - INFO - Search results verified for Cologne
+2026-05-23 00:07:39,338 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:07:39,338 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_000738_20260523_000738.png
+2026-05-23 00:07:39,339 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-23 00:07:41,552 - INFO - ====== WebDriver manager ======
+2026-05-23 00:07:42,357 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:07:43,634 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-23 00:07:45,371 - INFO - Nykaa website opened successfully
+2026-05-23 00:07:45,718 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:07:45,718 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_000745_20260523_000745.png
+2026-05-23 00:07:46,265 - INFO - Searching product : @@@@@@@
+2026-05-23 00:07:46,537 - INFO - STEP EXECUTED : User searches fragrance product "@@@@@@@"
+2026-05-23 00:07:46,537 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product @@@@@@@_000746_20260523_000746.png
+2026-05-23 00:07:46,724 - INFO - Negative validation successful for @@@@@@@
+2026-05-23 00:07:47,021 - INFO - STEP EXECUTED : Invalid search message should appear
+2026-05-23 00:07:47,021 - INFO - SCREENSHOT SAVED : screenshots/Invalid search message should appear_000746_20260523_000746.png
+2026-05-23 00:07:47,021 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-23 00:07:49,161 - INFO - ====== WebDriver manager ======
+2026-05-23 00:07:49,874 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:07:51,210 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-23 00:07:53,867 - INFO - Nykaa website opened successfully
+2026-05-23 00:07:54,177 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:07:54,177 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_000753_20260523_000753.png
+2026-05-23 00:07:54,428 - INFO - Searching product : invalidproduct
+2026-05-23 00:07:54,722 - INFO - STEP EXECUTED : User searches fragrance product "invalidproduct"
+2026-05-23 00:07:54,723 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product invalidproduct_000754_20260523_000754.png
+2026-05-23 00:07:54,943 - INFO - Negative validation successful for invalidproduct
+2026-05-23 00:07:55,200 - INFO - STEP EXECUTED : Invalid search message should appear
+2026-05-23 00:07:55,200 - INFO - SCREENSHOT SAVED : screenshots/Invalid search message should appear_000754_20260523_000754.png
+2026-05-23 00:07:55,201 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-23 00:11:52,601 - INFO - ====== WebDriver manager ======
+2026-05-23 00:11:53,272 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:11:54,498 - INFO - STARTED SCENARIO : Complete fragrance purchase flow
+2026-05-23 00:11:57,669 - INFO - Nykaa website opened successfully
+2026-05-23 00:11:58,026 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:11:58,026 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_001157_20260523_001157.png
+2026-05-23 00:12:01,612 - INFO - Product searched : Perfume
+2026-05-23 00:12:06,896 - INFO - STEP EXECUTED : User searches for "Perfume"
+2026-05-23 00:12:06,896 - INFO - SCREENSHOT SAVED : screenshots/User searches for Perfume_001206_20260523_001206.png
+2026-05-23 00:12:12,174 - INFO - First fragrance selected successfully
+2026-05-23 00:12:17,438 - INFO - STEP EXECUTED : User selects first fragrance
+2026-05-23 00:12:17,439 - INFO - SCREENSHOT SAVED : screenshots/User selects first fragrance_001217_20260523_001217.png
+2026-05-23 00:12:17,517 - INFO - Product title verified : Nykaa Wanderlust Dreaming Of Paris EDP Fruity Champagne & Berries - Long Lasting Fragrance Day+Night
+(50ml)
+2026-05-23 00:12:17,743 - INFO - STEP EXECUTED : Product title should be visible
+2026-05-23 00:12:17,743 - INFO - SCREENSHOT SAVED : screenshots/Product title should be visible_001217_20260523_001217.png
+2026-05-23 00:12:24,810 - INFO - Product added to cart successfully
+2026-05-23 00:12:30,079 - INFO - STEP EXECUTED : User adds product to cart
+2026-05-23 00:12:30,080 - INFO - SCREENSHOT SAVED : screenshots/User adds product to cart_001229_20260523_001229.png
+2026-05-23 00:12:30,273 - INFO - Product addition verified
+2026-05-23 00:12:30,554 - INFO - STEP EXECUTED : Product should be added successfully
+2026-05-23 00:12:30,554 - INFO - SCREENSHOT SAVED : screenshots/Product should be added successfully_001230_20260523_001230.png
+2026-05-23 00:12:50,803 - INFO - STEP EXECUTED : User opens shopping cart
+2026-05-23 00:12:50,803 - INFO - SCREENSHOT SAVED : screenshots/User opens shopping cart_001250_20260523_001250.png
+2026-05-23 00:12:50,805 - INFO - ENDED SCENARIO : Complete fragrance purchase flow
+2026-05-23 00:12:53,027 - INFO - ====== WebDriver manager ======
+2026-05-23 00:12:53,827 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:12:55,094 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-23 00:12:57,707 - INFO - Nykaa website opened successfully
+2026-05-23 00:12:58,092 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:12:58,093 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_001257_20260523_001257.png
+2026-05-23 00:12:58,357 - INFO - Searching product : Perfume
+2026-05-23 00:12:58,623 - INFO - STEP EXECUTED : User searches fragrance product "Perfume"
+2026-05-23 00:12:58,624 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Perfume_001258_20260523_001258.png
+2026-05-23 00:13:03,688 - INFO - Search results verified for Perfume
+2026-05-23 00:13:04,031 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:13:04,032 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_001303_20260523_001303.png
+2026-05-23 00:13:04,033 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-23 00:13:06,215 - INFO - ====== WebDriver manager ======
+2026-05-23 00:13:06,979 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:13:08,319 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-23 00:13:11,264 - INFO - Nykaa website opened successfully
+2026-05-23 00:13:11,630 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:13:11,630 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_001311_20260523_001311.png
+2026-05-23 00:13:11,848 - INFO - Searching product : Dior
+2026-05-23 00:13:12,167 - INFO - STEP EXECUTED : User searches fragrance product "Dior"
+2026-05-23 00:13:12,167 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Dior_001311_20260523_001311.png
+2026-05-23 00:13:17,226 - INFO - Search results verified for Dior
+2026-05-23 00:13:17,706 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:13:17,706 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_001317_20260523_001317.png
+2026-05-23 00:13:17,707 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-23 00:13:19,920 - INFO - ====== WebDriver manager ======
+2026-05-23 00:13:20,679 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:13:21,976 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-23 00:13:28,382 - INFO - Nykaa website opened successfully
+2026-05-23 00:13:28,812 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:13:28,813 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_001328_20260523_001328.png
+2026-05-23 00:13:29,124 - INFO - Searching product : Gucci
+2026-05-23 00:13:29,486 - INFO - STEP EXECUTED : User searches fragrance product "Gucci"
+2026-05-23 00:13:29,487 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Gucci_001329_20260523_001329.png
+2026-05-23 00:13:34,526 - INFO - Search results verified for Gucci
+2026-05-23 00:13:34,888 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:13:34,888 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_001334_20260523_001334.png
+2026-05-23 00:13:34,890 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-23 00:13:37,098 - INFO - ====== WebDriver manager ======
+2026-05-23 00:13:37,867 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:13:39,209 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-23 00:13:41,208 - INFO - Nykaa website opened successfully
+2026-05-23 00:13:41,633 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:13:41,633 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_001341_20260523_001341.png
+2026-05-23 00:13:41,925 - INFO - Searching product : Cologne
+2026-05-23 00:13:42,281 - INFO - STEP EXECUTED : User searches fragrance product "Cologne"
+2026-05-23 00:13:42,281 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Cologne_001341_20260523_001341.png
+2026-05-23 00:13:47,342 - INFO - Search results verified for Cologne
+2026-05-23 00:13:47,834 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:13:47,835 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_001347_20260523_001347.png
+2026-05-23 00:13:47,836 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-23 00:13:50,060 - INFO - ====== WebDriver manager ======
+2026-05-23 00:13:50,824 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:13:52,162 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-23 00:13:54,333 - INFO - Nykaa website opened successfully
+2026-05-23 00:13:54,674 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:13:54,674 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_001354_20260523_001354.png
+2026-05-23 00:13:54,914 - INFO - Searching product : @@@@@@@
+2026-05-23 00:13:55,267 - INFO - STEP EXECUTED : User searches fragrance product "@@@@@@@"
+2026-05-23 00:13:55,267 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product @@@@@@@_001354_20260523_001354.png
+2026-05-23 00:13:55,501 - INFO - Negative validation successful for @@@@@@@
+2026-05-23 00:13:55,849 - INFO - STEP EXECUTED : Invalid search message should appear
+2026-05-23 00:13:55,849 - INFO - SCREENSHOT SAVED : screenshots/Invalid search message should appear_001355_20260523_001355.png
+2026-05-23 00:13:55,850 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-23 00:13:57,983 - INFO - ====== WebDriver manager ======
+2026-05-23 00:13:58,758 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:14:00,052 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-23 00:14:01,530 - INFO - Nykaa website opened successfully
+2026-05-23 00:14:02,061 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:14:02,062 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_001401_20260523_001401.png
+2026-05-23 00:14:02,466 - INFO - Searching product : invalidproduct
+2026-05-23 00:14:02,753 - INFO - STEP EXECUTED : User searches fragrance product "invalidproduct"
+2026-05-23 00:14:02,753 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product invalidproduct_001402_20260523_001402.png
+2026-05-23 00:14:02,931 - INFO - Negative validation successful for invalidproduct
+2026-05-23 00:14:03,184 - INFO - STEP EXECUTED : Invalid search message should appear
+2026-05-23 00:14:03,184 - INFO - SCREENSHOT SAVED : screenshots/Invalid search message should appear_001402_20260523_001402.png
+2026-05-23 00:14:03,185 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-23 00:18:48,377 - INFO - ====== WebDriver manager ======
+2026-05-23 00:18:49,378 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:18:50,093 - INFO - STARTED SCENARIO : Complete fragrance purchase flow
+2026-05-23 00:18:52,534 - INFO - Nykaa website opened successfully
+2026-05-23 00:18:52,965 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:18:52,966 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_001852_20260523_001852.png
+2026-05-23 00:18:57,245 - INFO - Product searched : Perfume
+2026-05-23 00:19:02,437 - INFO - STEP EXECUTED : User searches for "Perfume"
+2026-05-23 00:19:02,437 - INFO - SCREENSHOT SAVED : screenshots/User searches for Perfume_001902_20260523_001902.png
+2026-05-23 00:19:07,833 - INFO - First fragrance selected successfully
+2026-05-23 00:19:13,086 - INFO - STEP EXECUTED : User selects first fragrance
+2026-05-23 00:19:13,086 - INFO - SCREENSHOT SAVED : screenshots/User selects first fragrance_001912_20260523_001912.png
+2026-05-23 00:19:13,158 - INFO - Product title verified : Nykaa Wanderlust Dreaming Of Paris EDP Fruity Champagne & Berries - Long Lasting Fragrance Day+Night
+(50ml)
+2026-05-23 00:19:13,376 - INFO - STEP EXECUTED : Product title should be visible
+2026-05-23 00:19:13,377 - INFO - SCREENSHOT SAVED : screenshots/Product title should be visible_001913_20260523_001913.png
+2026-05-23 00:19:20,445 - INFO - Product added to cart successfully
+2026-05-23 00:19:25,736 - INFO - STEP EXECUTED : User adds product to cart
+2026-05-23 00:19:25,736 - INFO - SCREENSHOT SAVED : screenshots/User adds product to cart_001925_20260523_001925.png
+2026-05-23 00:19:25,936 - INFO - Product addition verified
+2026-05-23 00:19:26,187 - INFO - STEP EXECUTED : Product should be added successfully
+2026-05-23 00:19:26,187 - INFO - SCREENSHOT SAVED : screenshots/Product should be added successfully_001925_20260523_001925.png
+2026-05-23 00:19:35,223 - INFO - Shopping cart opened successfully
+2026-05-23 00:19:40,468 - INFO - STEP EXECUTED : User opens shopping cart
+2026-05-23 00:19:40,468 - INFO - SCREENSHOT SAVED : screenshots/User opens shopping cart_001940_20260523_001940.png
+2026-05-23 00:19:40,651 - INFO - Shopping cart page verified successfully
+2026-05-23 00:19:40,810 - INFO - STEP EXECUTED : Shopping cart page should be displayed
+2026-05-23 00:19:40,810 - INFO - SCREENSHOT SAVED : screenshots/Shopping cart page should be displayed_001940_20260523_001940.png
+2026-05-23 00:20:01,477 - INFO - STEP EXECUTED : User views order summary
+2026-05-23 00:20:01,477 - INFO - SCREENSHOT SAVED : screenshots/User views order summary_002001_20260523_002001.png
+2026-05-23 00:20:01,479 - INFO - ENDED SCENARIO : Complete fragrance purchase flow
+2026-05-23 00:20:03,759 - INFO - ====== WebDriver manager ======
+2026-05-23 00:20:04,543 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:20:05,864 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-23 00:20:07,778 - INFO - Nykaa website opened successfully
+2026-05-23 00:20:08,191 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:20:08,191 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_002007_20260523_002007.png
+2026-05-23 00:20:08,624 - INFO - Searching product : Perfume
+2026-05-23 00:20:08,909 - INFO - STEP EXECUTED : User searches fragrance product "Perfume"
+2026-05-23 00:20:08,909 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Perfume_002008_20260523_002008.png
+2026-05-23 00:20:13,939 - INFO - Search results verified for Perfume
+2026-05-23 00:20:14,213 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:20:14,213 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_002013_20260523_002013.png
+2026-05-23 00:20:14,214 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-23 00:20:16,407 - INFO - ====== WebDriver manager ======
+2026-05-23 00:20:17,186 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:20:18,470 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-23 00:20:21,148 - INFO - Nykaa website opened successfully
+2026-05-23 00:20:21,483 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:20:21,483 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_002021_20260523_002021.png
+2026-05-23 00:20:21,689 - INFO - Searching product : Dior
+2026-05-23 00:20:22,021 - INFO - STEP EXECUTED : User searches fragrance product "Dior"
+2026-05-23 00:20:22,022 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Dior_002021_20260523_002021.png
+2026-05-23 00:20:27,091 - INFO - Search results verified for Dior
+2026-05-23 00:20:27,513 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:20:27,514 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_002027_20260523_002027.png
+2026-05-23 00:20:27,514 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-23 00:20:29,723 - INFO - ====== WebDriver manager ======
+2026-05-23 00:20:30,302 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:20:31,546 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-23 00:20:34,253 - INFO - Nykaa website opened successfully
+2026-05-23 00:20:34,611 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:20:34,611 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_002034_20260523_002034.png
+2026-05-23 00:20:34,858 - INFO - Searching product : Gucci
+2026-05-23 00:20:35,205 - INFO - STEP EXECUTED : User searches fragrance product "Gucci"
+2026-05-23 00:20:35,205 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Gucci_002034_20260523_002034.png
+2026-05-23 00:20:40,251 - INFO - Search results verified for Gucci
+2026-05-23 00:20:40,595 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:20:40,595 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_002040_20260523_002040.png
+2026-05-23 00:20:40,596 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-23 00:20:42,787 - INFO - ====== WebDriver manager ======
+2026-05-23 00:20:43,522 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:20:44,834 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-23 00:20:51,575 - INFO - Nykaa website opened successfully
+2026-05-23 00:20:52,134 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:20:52,134 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_002051_20260523_002051.png
+2026-05-23 00:20:52,426 - INFO - Searching product : Cologne
+2026-05-23 00:20:52,761 - INFO - STEP EXECUTED : User searches fragrance product "Cologne"
+2026-05-23 00:20:52,762 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Cologne_002052_20260523_002052.png
+2026-05-23 00:20:57,799 - INFO - Search results verified for Cologne
+2026-05-23 00:20:58,136 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:20:58,136 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_002057_20260523_002057.png
+2026-05-23 00:20:58,137 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-23 00:21:00,292 - INFO - ====== WebDriver manager ======
+2026-05-23 00:21:00,957 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:21:02,129 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-23 00:21:05,843 - INFO - Nykaa website opened successfully
+2026-05-23 00:21:06,286 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:21:06,286 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_002105_20260523_002105.png
+2026-05-23 00:21:06,589 - INFO - Searching product : @@@@@@@
+2026-05-23 00:21:06,912 - INFO - STEP EXECUTED : User searches fragrance product "@@@@@@@"
+2026-05-23 00:21:06,913 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product @@@@@@@_002106_20260523_002106.png
+2026-05-23 00:21:07,137 - INFO - Negative validation successful for @@@@@@@
+2026-05-23 00:21:07,372 - INFO - STEP EXECUTED : Invalid search message should appear
+2026-05-23 00:21:07,372 - INFO - SCREENSHOT SAVED : screenshots/Invalid search message should appear_002107_20260523_002107.png
+2026-05-23 00:21:07,373 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-23 00:21:09,518 - INFO - ====== WebDriver manager ======
+2026-05-23 00:21:10,309 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:21:11,659 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-23 00:21:13,345 - INFO - Nykaa website opened successfully
+2026-05-23 00:21:13,606 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:21:13,607 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_002113_20260523_002113.png
+2026-05-23 00:21:14,217 - INFO - Searching product : invalidproduct
+2026-05-23 00:21:14,637 - INFO - STEP EXECUTED : User searches fragrance product "invalidproduct"
+2026-05-23 00:21:14,637 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product invalidproduct_002114_20260523_002114.png
+2026-05-23 00:21:14,818 - INFO - Negative validation successful for invalidproduct
+2026-05-23 00:21:15,104 - INFO - STEP EXECUTED : Invalid search message should appear
+2026-05-23 00:21:15,104 - INFO - SCREENSHOT SAVED : screenshots/Invalid search message should appear_002114_20260523_002114.png
+2026-05-23 00:21:15,105 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-23 00:23:39,601 - INFO - ====== WebDriver manager ======
+2026-05-23 00:23:40,113 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:23:41,433 - INFO - STARTED SCENARIO : Complete fragrance purchase flow
+2026-05-23 00:23:43,959 - INFO - Nykaa website opened successfully
+2026-05-23 00:23:44,441 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:23:44,441 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_002343_20260523_002343.png
+2026-05-23 00:23:48,907 - INFO - Product searched : Perfume
+2026-05-23 00:23:54,192 - INFO - STEP EXECUTED : User searches for "Perfume"
+2026-05-23 00:23:54,192 - INFO - SCREENSHOT SAVED : screenshots/User searches for Perfume_002353_20260523_002353.png
+2026-05-23 00:23:59,530 - INFO - First fragrance selected successfully
+2026-05-23 00:24:04,787 - INFO - STEP EXECUTED : User selects first fragrance
+2026-05-23 00:24:04,787 - INFO - SCREENSHOT SAVED : screenshots/User selects first fragrance_002404_20260523_002404.png
+2026-05-23 00:24:04,869 - INFO - Product title verified : Nykaa Wanderlust Dreaming Of Paris EDP Fruity Champagne & Berries - Long Lasting Fragrance Day+Night
+(50ml)
+2026-05-23 00:24:05,105 - INFO - STEP EXECUTED : Product title should be visible
+2026-05-23 00:24:05,105 - INFO - SCREENSHOT SAVED : screenshots/Product title should be visible_002404_20260523_002404.png
+2026-05-23 00:24:12,166 - INFO - Product added to cart successfully
+2026-05-23 00:24:17,442 - INFO - STEP EXECUTED : User adds product to cart
+2026-05-23 00:24:17,442 - INFO - SCREENSHOT SAVED : screenshots/User adds product to cart_002417_20260523_002417.png
+2026-05-23 00:24:17,644 - INFO - Product addition verified
+2026-05-23 00:24:17,892 - INFO - STEP EXECUTED : Product should be added successfully
+2026-05-23 00:24:17,892 - INFO - SCREENSHOT SAVED : screenshots/Product should be added successfully_002417_20260523_002417.png
+2026-05-23 00:24:25,921 - INFO - Shopping cart opened successfully
+2026-05-23 00:24:31,129 - INFO - STEP EXECUTED : User opens shopping cart
+2026-05-23 00:24:31,129 - INFO - SCREENSHOT SAVED : screenshots/User opens shopping cart_002430_20260523_002430.png
+2026-05-23 00:24:31,273 - INFO - Shopping cart page verified successfully
+2026-05-23 00:24:31,432 - INFO - STEP EXECUTED : Shopping cart page should be displayed
+2026-05-23 00:24:31,432 - INFO - SCREENSHOT SAVED : screenshots/Shopping cart page should be displayed_002431_20260523_002431.png
+2026-05-23 00:24:36,643 - INFO - Order summary verified successfully
+2026-05-23 00:24:36,841 - INFO - STEP EXECUTED : User views order summary
+2026-05-23 00:24:36,842 - INFO - SCREENSHOT SAVED : screenshots/User views order summary_002436_20260523_002436.png
+2026-05-23 00:24:40,083 - INFO - STEP EXECUTED : User proceeds to checkout
+2026-05-23 00:24:40,083 - INFO - SCREENSHOT SAVED : screenshots/User proceeds to checkout_002439_20260523_002439.png
+2026-05-23 00:24:40,085 - INFO - ENDED SCENARIO : Complete fragrance purchase flow
+2026-05-23 00:24:42,332 - INFO - ====== WebDriver manager ======
+2026-05-23 00:24:43,096 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:24:44,466 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-23 00:24:46,568 - INFO - Nykaa website opened successfully
+2026-05-23 00:24:46,972 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:24:46,973 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_002446_20260523_002446.png
+2026-05-23 00:24:47,519 - INFO - Searching product : Perfume
+2026-05-23 00:24:47,780 - INFO - STEP EXECUTED : User searches fragrance product "Perfume"
+2026-05-23 00:24:47,780 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Perfume_002447_20260523_002447.png
+2026-05-23 00:24:52,841 - INFO - Search results verified for Perfume
+2026-05-23 00:24:53,273 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:24:53,273 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_002452_20260523_002452.png
+2026-05-23 00:24:53,274 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-23 00:24:55,441 - INFO - ====== WebDriver manager ======
+2026-05-23 00:24:56,199 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:24:57,535 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-23 00:25:00,757 - INFO - Nykaa website opened successfully
+2026-05-23 00:25:01,071 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:25:01,072 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_002500_20260523_002500.png
+2026-05-23 00:25:01,292 - INFO - Searching product : Dior
+2026-05-23 00:25:01,554 - INFO - STEP EXECUTED : User searches fragrance product "Dior"
+2026-05-23 00:25:01,554 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Dior_002501_20260523_002501.png
+2026-05-23 00:25:06,613 - INFO - Search results verified for Dior
+2026-05-23 00:25:06,912 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:25:06,912 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_002506_20260523_002506.png
+2026-05-23 00:25:06,913 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-23 00:25:09,103 - INFO - ====== WebDriver manager ======
+2026-05-23 00:25:09,864 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:25:11,174 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-23 00:25:13,138 - INFO - Nykaa website opened successfully
+2026-05-23 00:25:13,400 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:25:13,400 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_002513_20260523_002513.png
+2026-05-23 00:25:13,694 - INFO - Searching product : Gucci
+2026-05-23 00:25:13,911 - INFO - STEP EXECUTED : User searches fragrance product "Gucci"
+2026-05-23 00:25:13,911 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Gucci_002513_20260523_002513.png
+2026-05-23 00:25:18,967 - INFO - Search results verified for Gucci
+2026-05-23 00:25:19,392 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:25:19,393 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_002518_20260523_002518.png
+2026-05-23 00:25:19,393 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-23 00:25:21,576 - INFO - ====== WebDriver manager ======
+2026-05-23 00:25:22,347 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:25:23,693 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-23 00:25:26,033 - INFO - Nykaa website opened successfully
+2026-05-23 00:25:26,446 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:25:26,446 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_002526_20260523_002526.png
+2026-05-23 00:25:26,610 - INFO - Searching product : Cologne
+2026-05-23 00:25:26,877 - INFO - STEP EXECUTED : User searches fragrance product "Cologne"
+2026-05-23 00:25:26,877 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Cologne_002526_20260523_002526.png
+2026-05-23 00:25:31,966 - INFO - Search results verified for Cologne
+2026-05-23 00:25:32,463 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:25:32,463 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_002531_20260523_002531.png
+2026-05-23 00:25:32,464 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-23 00:25:34,648 - INFO - ====== WebDriver manager ======
+2026-05-23 00:25:35,416 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:25:36,758 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-23 00:25:39,007 - INFO - Nykaa website opened successfully
+2026-05-23 00:25:39,338 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:25:39,338 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_002539_20260523_002539.png
+2026-05-23 00:25:39,504 - INFO - Searching product : @@@@@@@
+2026-05-23 00:25:39,761 - INFO - STEP EXECUTED : User searches fragrance product "@@@@@@@"
+2026-05-23 00:25:39,761 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product @@@@@@@_002539_20260523_002539.png
+2026-05-23 00:25:39,955 - INFO - Negative validation successful for @@@@@@@
+2026-05-23 00:25:40,227 - INFO - STEP EXECUTED : Invalid search message should appear
+2026-05-23 00:25:40,227 - INFO - SCREENSHOT SAVED : screenshots/Invalid search message should appear_002539_20260523_002539.png
+2026-05-23 00:25:40,228 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-23 00:25:42,387 - INFO - ====== WebDriver manager ======
+2026-05-23 00:25:43,161 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:25:44,480 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-23 00:25:46,091 - INFO - Nykaa website opened successfully
+2026-05-23 00:25:46,341 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:25:46,341 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_002546_20260523_002546.png
+2026-05-23 00:25:46,734 - INFO - Searching product : invalidproduct
+2026-05-23 00:25:46,978 - INFO - STEP EXECUTED : User searches fragrance product "invalidproduct"
+2026-05-23 00:25:46,979 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product invalidproduct_002546_20260523_002546.png
+2026-05-23 00:25:47,076 - INFO - Negative validation successful for invalidproduct
+2026-05-23 00:25:47,385 - INFO - STEP EXECUTED : Invalid search message should appear
+2026-05-23 00:25:47,386 - INFO - SCREENSHOT SAVED : screenshots/Invalid search message should appear_002547_20260523_002547.png
+2026-05-23 00:25:47,386 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-23 00:26:52,158 - INFO - ====== WebDriver manager ======
+2026-05-23 00:26:52,658 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:26:53,961 - INFO - STARTED SCENARIO : Complete fragrance purchase flow
+2026-05-23 00:26:57,139 - INFO - Nykaa website opened successfully
+2026-05-23 00:26:57,517 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:26:57,517 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_002657_20260523_002657.png
+2026-05-23 00:27:01,969 - INFO - Product searched : Perfume
+2026-05-23 00:27:07,171 - INFO - STEP EXECUTED : User searches for "Perfume"
+2026-05-23 00:27:07,171 - INFO - SCREENSHOT SAVED : screenshots/User searches for Perfume_002706_20260523_002706.png
+2026-05-23 00:27:12,477 - INFO - First fragrance selected successfully
+2026-05-23 00:27:17,773 - INFO - STEP EXECUTED : User selects first fragrance
+2026-05-23 00:27:17,774 - INFO - SCREENSHOT SAVED : screenshots/User selects first fragrance_002717_20260523_002717.png
+2026-05-23 00:27:17,849 - INFO - Product title verified : Nykaa Wanderlust Dreaming Of Paris EDP Fruity Champagne & Berries - Long Lasting Fragrance Day+Night
+(50ml)
+2026-05-23 00:27:18,081 - INFO - STEP EXECUTED : Product title should be visible
+2026-05-23 00:27:18,082 - INFO - SCREENSHOT SAVED : screenshots/Product title should be visible_002717_20260523_002717.png
+2026-05-23 00:27:25,146 - INFO - Product added to cart successfully
+2026-05-23 00:27:30,348 - INFO - STEP EXECUTED : User adds product to cart
+2026-05-23 00:27:30,348 - INFO - SCREENSHOT SAVED : screenshots/User adds product to cart_002730_20260523_002730.png
+2026-05-23 00:27:30,525 - INFO - Product addition verified
+2026-05-23 00:27:30,709 - INFO - STEP EXECUTED : Product should be added successfully
+2026-05-23 00:27:30,709 - INFO - SCREENSHOT SAVED : screenshots/Product should be added successfully_002730_20260523_002730.png
+2026-05-23 00:27:39,214 - INFO - Shopping cart opened successfully
+2026-05-23 00:27:44,248 - INFO - ENDED SCENARIO : Complete fragrance purchase flow
+2026-05-23 00:27:46,405 - INFO - ====== WebDriver manager ======
+2026-05-23 00:27:46,914 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:27:48,116 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-23 00:27:50,965 - INFO - Nykaa website opened successfully
+2026-05-23 00:27:51,476 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:27:51,477 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_002750_20260523_002750.png
+2026-05-23 00:27:51,711 - INFO - Searching product : Perfume
+2026-05-23 00:27:52,087 - INFO - STEP EXECUTED : User searches fragrance product "Perfume"
+2026-05-23 00:27:52,088 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Perfume_002751_20260523_002751.png
+2026-05-23 00:29:12,822 - INFO - ====== WebDriver manager ======
+2026-05-23 00:29:13,415 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:29:14,522 - INFO - STARTED SCENARIO : Complete fragrance purchase flow
+2026-05-23 00:29:16,450 - INFO - Nykaa website opened successfully
+2026-05-23 00:29:16,966 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:29:16,966 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_002916_20260523_002916.png
+2026-05-23 00:29:20,694 - INFO - Product searched : Perfume
+2026-05-23 00:29:25,894 - INFO - STEP EXECUTED : User searches for "Perfume"
+2026-05-23 00:29:25,894 - INFO - SCREENSHOT SAVED : screenshots/User searches for Perfume_002925_20260523_002925.png
+2026-05-23 00:29:31,263 - INFO - First fragrance selected successfully
+2026-05-23 00:29:36,493 - INFO - STEP EXECUTED : User selects first fragrance
+2026-05-23 00:29:36,493 - INFO - SCREENSHOT SAVED : screenshots/User selects first fragrance_002936_20260523_002936.png
+2026-05-23 00:29:36,554 - INFO - Product title verified : Nykaa Wanderlust Dreaming Of Paris EDP Fruity Champagne & Berries - Long Lasting Fragrance Day+Night
+(50ml)
+2026-05-23 00:29:36,782 - INFO - STEP EXECUTED : Product title should be visible
+2026-05-23 00:29:36,782 - INFO - SCREENSHOT SAVED : screenshots/Product title should be visible_002936_20260523_002936.png
+2026-05-23 00:29:43,860 - INFO - Product added to cart successfully
+2026-05-23 00:29:49,129 - INFO - STEP EXECUTED : User adds product to cart
+2026-05-23 00:29:49,129 - INFO - SCREENSHOT SAVED : screenshots/User adds product to cart_002948_20260523_002948.png
+2026-05-23 00:29:49,317 - INFO - Product addition verified
+2026-05-23 00:29:49,550 - INFO - STEP EXECUTED : Product should be added successfully
+2026-05-23 00:29:49,551 - INFO - SCREENSHOT SAVED : screenshots/Product should be added successfully_002949_20260523_002949.png
+2026-05-23 00:29:58,865 - INFO - Shopping cart opened successfully
+2026-05-23 00:30:04,054 - INFO - STEP EXECUTED : User opens shopping cart
+2026-05-23 00:30:04,055 - INFO - SCREENSHOT SAVED : screenshots/User opens shopping cart_003003_20260523_003003.png
+2026-05-23 00:30:04,218 - INFO - Shopping cart page verified successfully
+2026-05-23 00:30:04,368 - INFO - STEP EXECUTED : Shopping cart page should be displayed
+2026-05-23 00:30:04,368 - INFO - SCREENSHOT SAVED : screenshots/Shopping cart page should be displayed_003004_20260523_003004.png
+2026-05-23 00:30:09,570 - INFO - Order summary verified successfully
+2026-05-23 00:30:09,751 - INFO - STEP EXECUTED : User views order summary
+2026-05-23 00:30:09,751 - INFO - SCREENSHOT SAVED : screenshots/User views order summary_003009_20260523_003009.png
+2026-05-23 00:30:16,624 - INFO - Checkout related button clicked : beauty bonanza get your amazing deals
+mobile icon
+get app
+address icon
+store & events
+giftcard icon
+gift card
+help icon
+help
+nykaa logo
+categories
+brands
+luxe
+nykaa fashion
+beauty advice
+sign in
+1
+makeup
+skin
+hair
+appliances
+bath & body
+natural
+mom & baby
+health & wellness
+men
+fragrance
+lingerie & accessories
+home
+\u276f
+brand
+\u276f
+carte blanche
+thanks for visiting our website!
+we looked all over, but that page seems to have gotten away from us.
+back to home
+for any help, you may call us at
+1800-267-4444
+(all days, 8 am to 10 pm)
+nykaa logo
+who are we?
+careers
+authenticity
+press
+testimonials
+nykaa csr
+sustainability
+responsible disclosure
+investor relations
+link to smart odr
+help
+contact us
+frequently asked questions
+store locator
+cancellation & return
+shipping & delivery
+sell on nykaa
+inspire me
+beauty book
+games board
+buying guides
+quick links
+offer zone
+new launches
+nykaa man
+nykaa fashion
+nykaa pro
+sitemap
+top categories
+makeup
+skin
+hair
+bath & body
+appliances
+mom and baby
+health & wellness
+fragrance
+natural
+luxe
+free shipping
+on orders above \u20b9299
+easy returns
+15-day return policy
+100% authentic
+products sourced directly
+1900+ brands
+1.2 lakh+ products
+show us some love \u2764 on social media
+carte blanche price list
+carte blanche price list - product names and prices as of may 23, 2026
+carte blanche
+price
+last updated: may 23, 2026
+terms & conditionsshipping policycancellation policyprivacy policy
+? 2026 nykaa e-retail limited all rights reserved.
+popular links
+lipstick,highlighter,hair serum,concealer,face mask,biotique,lip gloss,perfume for women,facial kit,bb cream,victoria secret,love beauty and planet shampoo,eyeliner,hair mask,face wash for oily skin,ordinary,toner,eyeshadow palette,cleanser,chemist at play,mascara,loreal professional,hair extensions,olay cream,fogg,lip tint,under eye cream,wax strips,shower gel,sunscreen for face,insight cosmetics,face foundation,hair removal machine,mac foundation,choker,oud perfume,makeup pouch,olaplex,body mist,wella shampoo,huda beauty foundation,night cream,facewash,nyx,schwarzkopf shampoo,blue heaven,peel off mask,best lip balm,face scrub,cetaphil face wash,mederma cream,multivitamins tablet,himalaya face wash,garnier face wash,hair color for women,cetaphil moisturizers,ponds face wash,streax hair serum,nivea body lotions,vaseline body lotions,sugar lipstick,biotin tablet,aqualogica sunscreen,salicylic acid face wash,fogg perfume,clean and clear face wash,neutrogena sunscreen,pears soaps,hair color for men,dry cleansers,face serum
+how may we help you
+2026-05-23 00:30:16,625 - INFO - Proceed to checkout validation successful
+2026-05-23 00:30:21,788 - INFO - STEP EXECUTED : User proceeds to checkout
+2026-05-23 00:30:21,789 - INFO - SCREENSHOT SAVED : screenshots/User proceeds to checkout_003021_20260523_003021.png
+2026-05-23 00:30:21,804 - INFO - Complete End To End flow verified successfully
+2026-05-23 00:30:21,935 - INFO - STEP EXECUTED : Order confirmation process should be verified
+2026-05-23 00:30:21,935 - INFO - SCREENSHOT SAVED : screenshots/Order confirmation process should be verified_003021_20260523_003021.png
+2026-05-23 00:30:21,936 - INFO - ENDED SCENARIO : Complete fragrance purchase flow
+2026-05-23 00:30:24,135 - INFO - ====== WebDriver manager ======
+2026-05-23 00:30:24,881 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:30:26,110 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-23 00:30:28,206 - INFO - Nykaa website opened successfully
+2026-05-23 00:30:28,905 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:30:28,905 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_003028_20260523_003028.png
+2026-05-23 00:30:29,077 - INFO - Searching product : Perfume
+2026-05-23 00:30:29,384 - INFO - STEP EXECUTED : User searches fragrance product "Perfume"
+2026-05-23 00:30:29,384 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Perfume_003029_20260523_003029.png
+2026-05-23 00:30:34,437 - INFO - Search results verified for Perfume
+2026-05-23 00:30:34,776 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:30:34,777 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_003034_20260523_003034.png
+2026-05-23 00:30:34,777 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-23 00:30:36,941 - INFO - ====== WebDriver manager ======
+2026-05-23 00:30:37,543 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:30:38,852 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-23 00:30:41,603 - INFO - Nykaa website opened successfully
+2026-05-23 00:30:41,940 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:30:41,940 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_003041_20260523_003041.png
+2026-05-23 00:30:42,148 - INFO - Searching product : Dior
+2026-05-23 00:30:42,477 - INFO - STEP EXECUTED : User searches fragrance product "Dior"
+2026-05-23 00:30:42,477 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Dior_003042_20260523_003042.png
+2026-05-23 00:30:47,543 - INFO - Search results verified for Dior
+2026-05-23 00:30:47,933 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:30:47,933 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_003047_20260523_003047.png
+2026-05-23 00:30:47,934 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-23 00:30:50,095 - INFO - ====== WebDriver manager ======
+2026-05-23 00:30:50,857 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:30:52,210 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-23 00:30:54,873 - INFO - Nykaa website opened successfully
+2026-05-23 00:30:55,262 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:30:55,262 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_003054_20260523_003054.png
+2026-05-23 00:30:55,504 - INFO - Searching product : Gucci
+2026-05-23 00:30:55,822 - INFO - STEP EXECUTED : User searches fragrance product "Gucci"
+2026-05-23 00:30:55,822 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Gucci_003055_20260523_003055.png
+2026-05-23 00:31:00,879 - INFO - Search results verified for Gucci
+2026-05-23 00:31:01,251 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:31:01,251 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_003100_20260523_003100.png
+2026-05-23 00:31:01,252 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-23 00:31:03,428 - INFO - ====== WebDriver manager ======
+2026-05-23 00:31:04,225 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:31:05,568 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-23 00:31:08,027 - INFO - Nykaa website opened successfully
+2026-05-23 00:31:08,349 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:31:08,349 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_003108_20260523_003108.png
+2026-05-23 00:31:08,474 - INFO - Searching product : Cologne
+2026-05-23 00:31:08,715 - INFO - STEP EXECUTED : User searches fragrance product "Cologne"
+2026-05-23 00:31:08,715 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Cologne_003108_20260523_003108.png
+2026-05-23 00:31:13,790 - INFO - Search results verified for Cologne
+2026-05-23 00:31:14,167 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:31:14,167 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_003113_20260523_003113.png
+2026-05-23 00:31:14,168 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-23 00:31:16,331 - INFO - ====== WebDriver manager ======
+2026-05-23 00:31:17,130 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:31:18,272 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-23 00:31:20,028 - INFO - Nykaa website opened successfully
+2026-05-23 00:31:20,392 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:31:20,392 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_003120_20260523_003120.png
+2026-05-23 00:31:20,770 - INFO - Searching product : @@@@@@@
+2026-05-23 00:31:21,206 - INFO - STEP EXECUTED : User searches fragrance product "@@@@@@@"
+2026-05-23 00:31:21,206 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product @@@@@@@_003120_20260523_003120.png
+2026-05-23 00:31:21,385 - INFO - Negative validation successful for @@@@@@@
+2026-05-23 00:31:21,690 - INFO - STEP EXECUTED : Invalid search message should appear
+2026-05-23 00:31:21,690 - INFO - SCREENSHOT SAVED : screenshots/Invalid search message should appear_003121_20260523_003121.png
+2026-05-23 00:31:21,691 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-23 00:31:23,841 - INFO - ====== WebDriver manager ======
+2026-05-23 00:31:24,636 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:31:25,903 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-23 00:31:27,825 - INFO - Nykaa website opened successfully
+2026-05-23 00:31:28,022 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:31:28,022 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_003127_20260523_003127.png
+2026-05-23 00:31:28,550 - INFO - Searching product : invalidproduct
+2026-05-23 00:31:28,825 - INFO - STEP EXECUTED : User searches fragrance product "invalidproduct"
+2026-05-23 00:31:28,825 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product invalidproduct_003128_20260523_003128.png
+2026-05-23 00:31:28,917 - INFO - Negative validation successful for invalidproduct
+2026-05-23 00:31:29,207 - INFO - STEP EXECUTED : Invalid search message should appear
+2026-05-23 00:31:29,207 - INFO - SCREENSHOT SAVED : screenshots/Invalid search message should appear_003128_20260523_003128.png
+2026-05-23 00:31:29,208 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-23 00:32:24,744 - INFO - ====== WebDriver manager ======
+2026-05-23 00:32:25,501 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:32:26,275 - INFO - STARTED SCENARIO : Complete fragrance purchase flow
+2026-05-23 00:32:28,919 - INFO - Nykaa website opened successfully
+2026-05-23 00:32:29,246 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:32:29,246 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_003228_20260523_003228.png
+2026-05-23 00:32:33,178 - INFO - Product searched : Perfume
+2026-05-23 00:32:38,403 - INFO - STEP EXECUTED : User searches for "Perfume"
+2026-05-23 00:32:38,403 - INFO - SCREENSHOT SAVED : screenshots/User searches for Perfume_003238_20260523_003238.png
+2026-05-23 00:32:43,725 - INFO - First fragrance selected successfully
+2026-05-23 00:32:49,018 - INFO - STEP EXECUTED : User selects first fragrance
+2026-05-23 00:32:49,018 - INFO - SCREENSHOT SAVED : screenshots/User selects first fragrance_003248_20260523_003248.png
+2026-05-23 00:32:49,101 - INFO - Product title verified : Nykaa Wanderlust Dreaming Of Paris EDP Fruity Champagne & Berries - Long Lasting Fragrance Day+Night
+(50ml)
+2026-05-23 00:32:49,341 - INFO - STEP EXECUTED : Product title should be visible
+2026-05-23 00:32:49,342 - INFO - SCREENSHOT SAVED : screenshots/Product title should be visible_003249_20260523_003249.png
+2026-05-23 00:32:56,467 - INFO - Product added to cart successfully
+2026-05-23 00:33:01,713 - INFO - STEP EXECUTED : User adds product to cart
+2026-05-23 00:33:01,714 - INFO - SCREENSHOT SAVED : screenshots/User adds product to cart_003301_20260523_003301.png
+2026-05-23 00:33:01,899 - INFO - Product addition verified
+2026-05-23 00:33:02,175 - INFO - STEP EXECUTED : Product should be added successfully
+2026-05-23 00:33:02,175 - INFO - SCREENSHOT SAVED : screenshots/Product should be added successfully_003301_20260523_003301.png
+2026-05-23 00:33:10,054 - INFO - Shopping cart opened successfully
+2026-05-23 00:33:15,272 - INFO - STEP EXECUTED : User opens shopping cart
+2026-05-23 00:33:15,272 - INFO - SCREENSHOT SAVED : screenshots/User opens shopping cart_003315_20260523_003315.png
+2026-05-23 00:33:15,453 - INFO - Shopping cart page verified successfully
+2026-05-23 00:33:15,647 - INFO - STEP EXECUTED : Shopping cart page should be displayed
+2026-05-23 00:33:15,647 - INFO - SCREENSHOT SAVED : screenshots/Shopping cart page should be displayed_003315_20260523_003315.png
+2026-05-23 00:33:20,798 - INFO - Order summary verified successfully
+2026-05-23 00:33:20,953 - INFO - STEP EXECUTED : User views order summary
+2026-05-23 00:33:20,953 - INFO - SCREENSHOT SAVED : screenshots/User views order summary_003320_20260523_003320.png
+2026-05-23 00:33:28,156 - INFO - Checkout related button clicked : beauty bonanza get your amazing deals
+mobile icon
+get app
+address icon
+store & events
+giftcard icon
+gift card
+help icon
+help
+nykaa logo
+categories
+brands
+luxe
+nykaa fashion
+beauty advice
+sign in
+1
+makeup
+skin
+hair
+appliances
+bath & body
+natural
+mom & baby
+health & wellness
+men
+fragrance
+lingerie & accessories
+home
+\u276f
+brand
+\u276f
+carte blanche
+thanks for visiting our website!
+we looked all over, but that page seems to have gotten away from us.
+back to home
+for any help, you may call us at
+1800-267-4444
+(all days, 8 am to 10 pm)
+nykaa logo
+who are we?
+careers
+authenticity
+press
+testimonials
+nykaa csr
+sustainability
+responsible disclosure
+investor relations
+link to smart odr
+help
+contact us
+frequently asked questions
+store locator
+cancellation & return
+shipping & delivery
+sell on nykaa
+inspire me
+beauty book
+games board
+buying guides
+quick links
+offer zone
+new launches
+nykaa man
+nykaa fashion
+nykaa pro
+sitemap
+top categories
+makeup
+skin
+hair
+bath & body
+appliances
+mom and baby
+health & wellness
+fragrance
+natural
+luxe
+free shipping
+on orders above \u20b9299
+easy returns
+15-day return policy
+100% authentic
+products sourced directly
+1900+ brands
+1.2 lakh+ products
+show us some love \u2764 on social media
+carte blanche price list
+carte blanche price list - product names and prices as of may 23, 2026
+carte blanche
+price
+last updated: may 23, 2026
+terms & conditionsshipping policycancellation policyprivacy policy
+? 2026 nykaa e-retail limited all rights reserved.
+popular links
+lipstick,highlighter,hair serum,concealer,face mask,biotique,lip gloss,perfume for women,facial kit,bb cream,victoria secret,love beauty and planet shampoo,eyeliner,hair mask,face wash for oily skin,ordinary,toner,eyeshadow palette,cleanser,chemist at play,mascara,loreal professional,hair extensions,olay cream,fogg,lip tint,under eye cream,wax strips,shower gel,sunscreen for face,insight cosmetics,face foundation,hair removal machine,mac foundation,choker,oud perfume,makeup pouch,olaplex,body mist,wella shampoo,huda beauty foundation,night cream,facewash,nyx,schwarzkopf shampoo,blue heaven,peel off mask,best lip balm,face scrub,cetaphil face wash,mederma cream,multivitamins tablet,himalaya face wash,garnier face wash,hair color for women,cetaphil moisturizers,ponds face wash,streax hair serum,nivea body lotions,vaseline body lotions,sugar lipstick,biotin tablet,aqualogica sunscreen,salicylic acid face wash,fogg perfume,clean and clear face wash,neutrogena sunscreen,pears soaps,hair color for men,dry cleansers,face serum
+how may we help you
+2026-05-23 00:33:28,156 - INFO - Proceed to checkout validation successful
+2026-05-23 00:33:33,334 - INFO - STEP EXECUTED : User proceeds to checkout
+2026-05-23 00:33:33,334 - INFO - SCREENSHOT SAVED : screenshots/User proceeds to checkout_003333_20260523_003333.png
+2026-05-23 00:33:33,351 - INFO - Complete End To End flow verified successfully
+2026-05-23 00:33:33,518 - INFO - STEP EXECUTED : Order confirmation process should be verified
+2026-05-23 00:33:33,519 - INFO - SCREENSHOT SAVED : screenshots/Order confirmation process should be verified_003333_20260523_003333.png
+2026-05-23 00:33:33,520 - INFO - ENDED SCENARIO : Complete fragrance purchase flow
+2026-05-23 00:33:35,806 - INFO - ====== WebDriver manager ======
+2026-05-23 00:33:36,494 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:33:37,814 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-23 00:33:39,635 - INFO - Nykaa website opened successfully
+2026-05-23 00:33:39,936 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:33:39,937 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_003339_20260523_003339.png
+2026-05-23 00:33:40,440 - INFO - Searching product : Perfume
+2026-05-23 00:33:40,806 - INFO - STEP EXECUTED : User searches fragrance product "Perfume"
+2026-05-23 00:33:40,806 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Perfume_003340_20260523_003340.png
+2026-05-23 00:33:45,864 - INFO - Search results verified for Perfume
+2026-05-23 00:33:46,253 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:33:46,253 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_003345_20260523_003345.png
+2026-05-23 00:33:46,254 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-23 00:33:48,418 - INFO - ====== WebDriver manager ======
+2026-05-23 00:33:49,156 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:33:50,489 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-23 00:33:52,406 - INFO - Nykaa website opened successfully
+2026-05-23 00:33:52,793 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:33:52,793 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_003352_20260523_003352.png
+2026-05-23 00:33:53,228 - INFO - Searching product : Dior
+2026-05-23 00:33:53,547 - INFO - STEP EXECUTED : User searches fragrance product "Dior"
+2026-05-23 00:33:53,548 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Dior_003353_20260523_003353.png
+2026-05-23 00:33:58,604 - INFO - Search results verified for Dior
+2026-05-23 00:33:58,982 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:33:58,982 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_003358_20260523_003358.png
+2026-05-23 00:33:58,983 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-23 00:34:01,217 - INFO - ====== WebDriver manager ======
+2026-05-23 00:34:01,961 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:34:03,317 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-23 00:34:06,127 - INFO - Nykaa website opened successfully
+2026-05-23 00:34:06,504 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:34:06,504 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_003406_20260523_003406.png
+2026-05-23 00:34:06,686 - INFO - Searching product : Gucci
+2026-05-23 00:34:07,007 - INFO - STEP EXECUTED : User searches fragrance product "Gucci"
+2026-05-23 00:34:07,007 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Gucci_003406_20260523_003406.png
+2026-05-23 00:34:12,056 - INFO - Search results verified for Gucci
+2026-05-23 00:34:12,388 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:34:12,388 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_003412_20260523_003412.png
+2026-05-23 00:34:12,389 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-23 00:34:14,570 - INFO - ====== WebDriver manager ======
+2026-05-23 00:34:15,330 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:34:16,646 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-23 00:34:19,711 - INFO - Nykaa website opened successfully
+2026-05-23 00:34:20,044 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:34:20,044 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_003419_20260523_003419.png
+2026-05-23 00:34:20,230 - INFO - Searching product : Cologne
+2026-05-23 00:34:20,504 - INFO - STEP EXECUTED : User searches fragrance product "Cologne"
+2026-05-23 00:34:20,505 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Cologne_003420_20260523_003420.png
+2026-05-23 00:34:25,586 - INFO - Search results verified for Cologne
+2026-05-23 00:34:26,061 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:34:26,061 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_003425_20260523_003425.png
+2026-05-23 00:34:26,062 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-23 00:34:28,212 - INFO - ====== WebDriver manager ======
+2026-05-23 00:34:29,009 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:34:30,293 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-23 00:34:32,888 - INFO - Nykaa website opened successfully
+2026-05-23 00:34:33,299 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:34:33,300 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_003432_20260523_003432.png
+2026-05-23 00:34:33,545 - INFO - Searching product : @@@@@@@
+2026-05-23 00:34:33,861 - INFO - STEP EXECUTED : User searches fragrance product "@@@@@@@"
+2026-05-23 00:34:33,861 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product @@@@@@@_003433_20260523_003433.png
+2026-05-23 00:34:34,094 - INFO - Negative validation successful for @@@@@@@
+2026-05-23 00:34:34,374 - INFO - STEP EXECUTED : Invalid search message should appear
+2026-05-23 00:34:34,375 - INFO - SCREENSHOT SAVED : screenshots/Invalid search message should appear_003434_20260523_003434.png
+2026-05-23 00:34:34,375 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-23 00:34:36,537 - INFO - ====== WebDriver manager ======
+2026-05-23 00:34:37,291 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:34:38,623 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-23 00:34:41,958 - INFO - Nykaa website opened successfully
+2026-05-23 00:34:42,398 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:34:42,398 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_003441_20260523_003441.png
+2026-05-23 00:34:42,689 - INFO - Searching product : invalidproduct
+2026-05-23 00:34:43,003 - INFO - STEP EXECUTED : User searches fragrance product "invalidproduct"
+2026-05-23 00:34:43,003 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product invalidproduct_003442_20260523_003442.png
+2026-05-23 00:34:43,294 - INFO - Negative validation successful for invalidproduct
+2026-05-23 00:34:43,581 - INFO - STEP EXECUTED : Invalid search message should appear
+2026-05-23 00:34:43,582 - INFO - SCREENSHOT SAVED : screenshots/Invalid search message should appear_003443_20260523_003443.png
+2026-05-23 00:34:43,582 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-23 00:51:53,382 - INFO - ====== WebDriver manager ======
+2026-05-23 00:51:53,914 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:51:55,205 - INFO - STARTED SCENARIO : Complete fragrance purchase flow
+2026-05-23 00:51:57,576 - INFO - Nykaa website opened successfully
+2026-05-23 00:51:58,045 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:51:58,046 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_005157_20260523_005157.png
+2026-05-23 00:52:01,747 - INFO - Product searched : Perfume
+2026-05-23 00:52:06,965 - INFO - STEP EXECUTED : User searches for "Perfume"
+2026-05-23 00:52:06,965 - INFO - SCREENSHOT SAVED : screenshots/User searches for Perfume_005206_20260523_005206.png
+2026-05-23 00:52:12,253 - INFO - First fragrance selected successfully
+2026-05-23 00:52:17,495 - INFO - STEP EXECUTED : User selects first fragrance
+2026-05-23 00:52:17,495 - INFO - SCREENSHOT SAVED : screenshots/User selects first fragrance_005217_20260523_005217.png
+2026-05-23 00:52:17,580 - INFO - Product title verified : Nykaa Wanderlust Dreaming Of Paris EDP Fruity Champagne & Berries - Long Lasting Fragrance Day+Night
+(50ml)
+2026-05-23 00:52:17,792 - INFO - STEP EXECUTED : Product title should be visible
+2026-05-23 00:52:17,792 - INFO - SCREENSHOT SAVED : screenshots/Product title should be visible_005217_20260523_005217.png
+2026-05-23 00:52:24,875 - INFO - Product added to cart successfully
+2026-05-23 00:52:30,158 - INFO - STEP EXECUTED : User adds product to cart
+2026-05-23 00:52:30,159 - INFO - SCREENSHOT SAVED : screenshots/User adds product to cart_005229_20260523_005229.png
+2026-05-23 00:52:30,368 - INFO - Product addition verified
+2026-05-23 00:52:30,568 - INFO - STEP EXECUTED : Product should be added successfully
+2026-05-23 00:52:30,569 - INFO - SCREENSHOT SAVED : screenshots/Product should be added successfully_005230_20260523_005230.png
+2026-05-23 00:52:38,527 - INFO - Shopping cart opened successfully
+2026-05-23 00:52:43,774 - INFO - STEP EXECUTED : User opens shopping cart
+2026-05-23 00:52:43,774 - INFO - SCREENSHOT SAVED : screenshots/User opens shopping cart_005243_20260523_005243.png
+2026-05-23 00:52:43,964 - INFO - Shopping cart page verified successfully
+2026-05-23 00:52:44,185 - INFO - STEP EXECUTED : Shopping cart page should be displayed
+2026-05-23 00:52:44,185 - INFO - SCREENSHOT SAVED : screenshots/Shopping cart page should be displayed_005243_20260523_005243.png
+2026-05-23 00:52:49,369 - INFO - Order summary verified successfully
+2026-05-23 00:52:49,584 - INFO - STEP EXECUTED : User views order summary
+2026-05-23 00:52:49,584 - INFO - SCREENSHOT SAVED : screenshots/User views order summary_005249_20260523_005249.png
+2026-05-23 00:52:56,329 - INFO - Checkout related button clicked : beauty bonanza get your amazing deals
+mobile icon
+get app
+address icon
+store & events
+giftcard icon
+gift card
+help icon
+help
+nykaa logo
+categories
+brands
+luxe
+nykaa fashion
+beauty advice
+sign in
+1
+makeup
+skin
+hair
+appliances
+bath & body
+natural
+mom & baby
+health & wellness
+men
+fragrance
+lingerie & accessories
+home
+\u276f
+brand
+\u276f
+carte blanche
+thanks for visiting our website!
+we looked all over, but that page seems to have gotten away from us.
+back to home
+for any help, you may call us at
+1800-267-4444
+(all days, 8 am to 10 pm)
+nykaa logo
+who are we?
+careers
+authenticity
+press
+testimonials
+nykaa csr
+sustainability
+responsible disclosure
+investor relations
+link to smart odr
+help
+contact us
+frequently asked questions
+store locator
+cancellation & return
+shipping & delivery
+sell on nykaa
+inspire me
+beauty book
+games board
+buying guides
+quick links
+offer zone
+new launches
+nykaa man
+nykaa fashion
+nykaa pro
+sitemap
+top categories
+makeup
+skin
+hair
+bath & body
+appliances
+mom and baby
+health & wellness
+fragrance
+natural
+luxe
+free shipping
+on orders above \u20b9299
+easy returns
+15-day return policy
+100% authentic
+products sourced directly
+1900+ brands
+1.2 lakh+ products
+show us some love \u2764 on social media
+carte blanche price list
+carte blanche price list - product names and prices as of may 23, 2026
+carte blanche
+price
+last updated: may 23, 2026
+terms & conditionsshipping policycancellation policyprivacy policy
+? 2026 nykaa e-retail limited all rights reserved.
+popular links
+lipstick,highlighter,hair serum,concealer,face mask,biotique,lip gloss,perfume for women,facial kit,bb cream,victoria secret,love beauty and planet shampoo,eyeliner,hair mask,face wash for oily skin,ordinary,toner,eyeshadow palette,cleanser,chemist at play,mascara,loreal professional,hair extensions,olay cream,fogg,lip tint,under eye cream,wax strips,shower gel,sunscreen for face,insight cosmetics,face foundation,hair removal machine,mac foundation,choker,oud perfume,makeup pouch,olaplex,body mist,wella shampoo,huda beauty foundation,night cream,facewash,nyx,schwarzkopf shampoo,blue heaven,peel off mask,best lip balm,face scrub,cetaphil face wash,mederma cream,multivitamins tablet,himalaya face wash,garnier face wash,hair color for women,cetaphil moisturizers,ponds face wash,streax hair serum,nivea body lotions,vaseline body lotions,sugar lipstick,biotin tablet,aqualogica sunscreen,salicylic acid face wash,fogg perfume,clean and clear face wash,neutrogena sunscreen,pears soaps,hair color for men,dry cleansers,face serum
+how may we help you
+2026-05-23 00:52:56,329 - INFO - Proceed to checkout validation successful
+2026-05-23 00:53:01,508 - INFO - STEP EXECUTED : User proceeds to checkout
+2026-05-23 00:53:01,508 - INFO - SCREENSHOT SAVED : screenshots/User proceeds to checkout_005301_20260523_005301.png
+2026-05-23 00:53:01,522 - INFO - Complete End To End flow verified successfully
+2026-05-23 00:53:01,687 - INFO - STEP EXECUTED : Order confirmation process should be verified
+2026-05-23 00:53:01,687 - INFO - SCREENSHOT SAVED : screenshots/Order confirmation process should be verified_005301_20260523_005301.png
+2026-05-23 00:53:01,688 - INFO - ENDED SCENARIO : Complete fragrance purchase flow
+2026-05-23 00:53:03,997 - INFO - ====== WebDriver manager ======
+2026-05-23 00:53:04,757 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:53:06,101 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-23 00:53:09,165 - INFO - Nykaa website opened successfully
+2026-05-23 00:53:09,514 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:53:09,514 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_005309_20260523_005309.png
+2026-05-23 00:53:09,685 - INFO - Searching product : Perfume
+2026-05-23 00:53:09,977 - INFO - STEP EXECUTED : User searches fragrance product "Perfume"
+2026-05-23 00:53:09,977 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Perfume_005309_20260523_005309.png
+2026-05-23 00:53:25,037 - INFO - Search results verified for Perfume
+2026-05-23 00:53:25,328 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:53:25,328 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_005325_20260523_005325.png
+2026-05-23 00:53:25,329 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-23 00:53:27,493 - INFO - ====== WebDriver manager ======
+2026-05-23 00:53:28,232 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:53:29,557 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-23 00:53:32,638 - INFO - Nykaa website opened successfully
+2026-05-23 00:53:33,191 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:53:33,191 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_005332_20260523_005332.png
+2026-05-23 00:53:33,570 - INFO - Searching product : Dior
+2026-05-23 00:53:33,858 - INFO - STEP EXECUTED : User searches fragrance product "Dior"
+2026-05-23 00:53:33,858 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Dior_005333_20260523_005333.png
+2026-05-23 00:53:48,920 - INFO - Search results verified for Dior
+2026-05-23 00:53:49,236 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:53:49,237 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_005348_20260523_005348.png
+2026-05-23 00:53:49,238 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-23 00:53:51,430 - INFO - ====== WebDriver manager ======
+2026-05-23 00:53:52,170 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:53:53,517 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-23 00:53:58,750 - INFO - Nykaa website opened successfully
+2026-05-23 00:53:59,143 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:53:59,144 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_005358_20260523_005358.png
+2026-05-23 00:53:59,360 - INFO - Searching product : Gucci
+2026-05-23 00:53:59,650 - INFO - STEP EXECUTED : User searches fragrance product "Gucci"
+2026-05-23 00:53:59,650 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Gucci_005359_20260523_005359.png
+2026-05-23 00:54:14,687 - INFO - Search results verified for Gucci
+2026-05-23 00:54:15,036 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:54:15,036 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_005414_20260523_005414.png
+2026-05-23 00:54:15,037 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-23 00:54:17,208 - INFO - ====== WebDriver manager ======
+2026-05-23 00:54:17,963 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:54:19,317 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-23 00:54:20,727 - INFO - Nykaa website opened successfully
+2026-05-23 00:54:21,103 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:54:21,103 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_005420_20260523_005420.png
+2026-05-23 00:54:21,624 - INFO - Searching product : Cologne
+2026-05-23 00:54:22,002 - INFO - STEP EXECUTED : User searches fragrance product "Cologne"
+2026-05-23 00:54:22,002 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Cologne_005421_20260523_005421.png
+2026-05-23 00:54:37,065 - INFO - Search results verified for Cologne
+2026-05-23 00:54:37,651 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 00:54:37,652 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_005437_20260523_005437.png
+2026-05-23 00:54:37,652 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-23 00:54:39,941 - INFO - ====== WebDriver manager ======
+2026-05-23 00:54:40,619 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:54:41,890 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-23 00:54:47,330 - INFO - Nykaa website opened successfully
+2026-05-23 00:54:48,180 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:54:48,180 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_005447_20260523_005447.png
+2026-05-23 00:54:48,974 - INFO - Searching product : @@@@@@@
+2026-05-23 00:54:49,539 - INFO - STEP EXECUTED : User searches fragrance product "@@@@@@@"
+2026-05-23 00:54:49,540 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product @@@@@@@_005448_20260523_005448.png
+2026-05-23 00:54:49,807 - INFO - Negative validation successful for @@@@@@@
+2026-05-23 00:54:50,354 - INFO - STEP EXECUTED : Invalid search message should appear
+2026-05-23 00:54:50,354 - INFO - SCREENSHOT SAVED : screenshots/Invalid search message should appear_005449_20260523_005449.png
+2026-05-23 00:54:50,355 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-23 00:54:52,603 - INFO - ====== WebDriver manager ======
+2026-05-23 00:54:53,268 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 00:54:53,919 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-23 00:54:56,226 - INFO - Nykaa website opened successfully
+2026-05-23 00:54:56,896 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 00:54:56,897 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_005456_20260523_005456.png
+2026-05-23 00:54:57,153 - INFO - Searching product : invalidproduct
+2026-05-23 00:54:57,640 - INFO - STEP EXECUTED : User searches fragrance product "invalidproduct"
+2026-05-23 00:54:57,640 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product invalidproduct_005457_20260523_005457.png
+2026-05-23 00:54:58,180 - INFO - Negative validation successful for invalidproduct
+2026-05-23 00:54:58,948 - INFO - STEP EXECUTED : Invalid search message should appear
+2026-05-23 00:54:58,949 - INFO - SCREENSHOT SAVED : screenshots/Invalid search message should appear_005458_20260523_005458.png
+2026-05-23 00:54:58,949 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-23 01:01:09,450 - INFO - ====== WebDriver manager ======
+2026-05-23 01:01:10,064 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 01:01:11,508 - INFO - STARTED SCENARIO : Complete fragrance purchase flow
+2026-05-23 01:01:14,659 - INFO - Nykaa website opened successfully
+2026-05-23 01:01:15,077 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 01:01:15,077 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_010114_20260523_010114.png
+2026-05-23 01:01:18,699 - INFO - Product searched : Perfume
+2026-05-23 01:01:23,979 - INFO - STEP EXECUTED : User searches for "Perfume"
+2026-05-23 01:01:23,979 - INFO - SCREENSHOT SAVED : screenshots/User searches for Perfume_010123_20260523_010123.png
+2026-05-23 01:01:29,273 - INFO - First fragrance selected successfully
+2026-05-23 01:01:34,516 - INFO - STEP EXECUTED : User selects first fragrance
+2026-05-23 01:01:34,517 - INFO - SCREENSHOT SAVED : screenshots/User selects first fragrance_010134_20260523_010134.png
+2026-05-23 01:01:34,598 - INFO - Product title verified : Victoria's Secret Bombshell Eau De Parfum
+(100ml)
+2026-05-23 01:01:34,796 - INFO - STEP EXECUTED : Product title should be visible
+2026-05-23 01:01:34,796 - INFO - SCREENSHOT SAVED : screenshots/Product title should be visible_010134_20260523_010134.png
+2026-05-23 01:01:41,866 - INFO - Product added to cart successfully
+2026-05-23 01:01:47,125 - INFO - STEP EXECUTED : User adds product to cart
+2026-05-23 01:01:47,126 - INFO - SCREENSHOT SAVED : screenshots/User adds product to cart_010146_20260523_010146.png
+2026-05-23 01:01:47,364 - INFO - Product addition verified
+2026-05-23 01:01:47,618 - INFO - STEP EXECUTED : Product should be added successfully
+2026-05-23 01:01:47,618 - INFO - SCREENSHOT SAVED : screenshots/Product should be added successfully_010147_20260523_010147.png
+2026-05-23 01:01:55,539 - INFO - Shopping cart opened successfully
+2026-05-23 01:02:00,765 - INFO - STEP EXECUTED : User opens shopping cart
+2026-05-23 01:02:00,765 - INFO - SCREENSHOT SAVED : screenshots/User opens shopping cart_010200_20260523_010200.png
+2026-05-23 01:02:00,929 - INFO - Shopping cart page verified successfully
+2026-05-23 01:02:01,081 - INFO - STEP EXECUTED : Shopping cart page should be displayed
+2026-05-23 01:02:01,081 - INFO - SCREENSHOT SAVED : screenshots/Shopping cart page should be displayed_010200_20260523_010200.png
+2026-05-23 01:02:06,297 - INFO - Order summary verified successfully
+2026-05-23 01:02:06,431 - INFO - STEP EXECUTED : User views order summary
+2026-05-23 01:02:06,431 - INFO - SCREENSHOT SAVED : screenshots/User views order summary_010206_20260523_010206.png
+2026-05-23 01:02:13,301 - INFO - Checkout related button clicked : beauty bonanza get your amazing deals
+mobile icon
+get app
+address icon
+store & events
+giftcard icon
+gift card
+help icon
+help
+nykaa logo
+categories
+brands
+luxe
+nykaa fashion
+beauty advice
+sign in
+1
+makeup
+skin
+hair
+appliances
+bath & body
+natural
+mom & baby
+health & wellness
+men
+fragrance
+lingerie & accessories
+home
+\u276f
+brand
+\u276f
+carte blanche
+thanks for visiting our website!
+we looked all over, but that page seems to have gotten away from us.
+back to home
+for any help, you may call us at
+1800-267-4444
+(all days, 8 am to 10 pm)
+nykaa logo
+who are we?
+careers
+authenticity
+press
+testimonials
+nykaa csr
+sustainability
+responsible disclosure
+investor relations
+link to smart odr
+help
+contact us
+frequently asked questions
+store locator
+cancellation & return
+shipping & delivery
+sell on nykaa
+inspire me
+beauty book
+games board
+buying guides
+quick links
+offer zone
+new launches
+nykaa man
+nykaa fashion
+nykaa pro
+sitemap
+top categories
+makeup
+skin
+hair
+bath & body
+appliances
+mom and baby
+health & wellness
+fragrance
+natural
+luxe
+free shipping
+on orders above \u20b9299
+easy returns
+15-day return policy
+100% authentic
+products sourced directly
+1900+ brands
+1.2 lakh+ products
+show us some love \u2764 on social media
+carte blanche price list
+carte blanche price list - product names and prices as of may 23, 2026
+carte blanche
+price
+last updated: may 23, 2026
+terms & conditionsshipping policycancellation policyprivacy policy
+? 2026 nykaa e-retail limited all rights reserved.
+popular links
+lipstick,highlighter,hair serum,concealer,face mask,biotique,lip gloss,perfume for women,facial kit,bb cream,victoria secret,love beauty and planet shampoo,eyeliner,hair mask,face wash for oily skin,ordinary,toner,eyeshadow palette,cleanser,chemist at play,mascara,loreal professional,hair extensions,olay cream,fogg,lip tint,under eye cream,wax strips,shower gel,sunscreen for face,insight cosmetics,face foundation,hair removal machine,mac foundation,choker,oud perfume,makeup pouch,olaplex,body mist,wella shampoo,huda beauty foundation,night cream,facewash,nyx,schwarzkopf shampoo,blue heaven,peel off mask,best lip balm,face scrub,cetaphil face wash,mederma cream,multivitamins tablet,himalaya face wash,garnier face wash,hair color for women,cetaphil moisturizers,ponds face wash,streax hair serum,nivea body lotions,vaseline body lotions,sugar lipstick,biotin tablet,aqualogica sunscreen,salicylic acid face wash,fogg perfume,clean and clear face wash,neutrogena sunscreen,pears soaps,hair color for men,dry cleansers,face serum
+how may we help you
+2026-05-23 01:02:13,301 - INFO - Proceed to checkout validation successful
+2026-05-23 01:02:18,480 - INFO - STEP EXECUTED : User proceeds to checkout
+2026-05-23 01:02:18,481 - INFO - SCREENSHOT SAVED : screenshots/User proceeds to checkout_010218_20260523_010218.png
+2026-05-23 01:02:18,497 - INFO - Complete End To End flow verified successfully
+2026-05-23 01:02:18,660 - INFO - STEP EXECUTED : Order confirmation process should be verified
+2026-05-23 01:02:18,660 - INFO - SCREENSHOT SAVED : screenshots/Order confirmation process should be verified_010218_20260523_010218.png
+2026-05-23 01:02:18,661 - INFO - ENDED SCENARIO : Complete fragrance purchase flow
+2026-05-23 01:02:20,946 - INFO - ====== WebDriver manager ======
+2026-05-23 01:02:21,768 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 01:02:22,526 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-23 01:02:27,974 - INFO - Nykaa website opened successfully
+2026-05-23 01:02:28,357 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 01:02:28,357 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_010227_20260523_010227.png
+2026-05-23 01:02:31,832 - INFO - Search initiated for : Perfume
+2026-05-23 01:02:37,054 - INFO - STEP EXECUTED : User searches fragrance product "Perfume"
+2026-05-23 01:02:37,054 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Perfume_010236_20260523_010236.png
+2026-05-23 01:02:37,092 - INFO - Search results validated successfully for Perfume
+2026-05-23 01:02:37,265 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 01:02:37,265 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_010237_20260523_010237.png
+2026-05-23 01:02:37,266 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-23 01:02:39,455 - INFO - ====== WebDriver manager ======
+2026-05-23 01:02:40,229 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 01:02:41,590 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-23 01:02:43,283 - INFO - Nykaa website opened successfully
+2026-05-23 01:02:44,082 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 01:02:44,082 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_010243_20260523_010243.png
+2026-05-23 01:02:47,686 - INFO - Search initiated for : Dior
+2026-05-23 01:02:52,986 - INFO - STEP EXECUTED : User searches fragrance product "Dior"
+2026-05-23 01:02:52,986 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Dior_010252_20260523_010252.png
+2026-05-23 01:02:53,026 - INFO - Search results validated successfully for Dior
+2026-05-23 01:02:53,265 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 01:02:53,265 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_010253_20260523_010253.png
+2026-05-23 01:02:53,266 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-23 01:02:55,449 - INFO - ====== WebDriver manager ======
+2026-05-23 01:02:56,301 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 01:02:57,680 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-23 01:03:00,580 - INFO - Nykaa website opened successfully
+2026-05-23 01:03:00,986 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 01:03:00,986 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_010300_20260523_010300.png
+2026-05-23 01:03:06,286 - INFO - Search initiated for : Gucci
+2026-05-23 01:03:11,538 - INFO - STEP EXECUTED : User searches fragrance product "Gucci"
+2026-05-23 01:03:11,538 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Gucci_010311_20260523_010311.png
+2026-05-23 01:03:11,563 - INFO - Search results validated successfully for Gucci
+2026-05-23 01:03:11,828 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 01:03:11,828 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_010311_20260523_010311.png
+2026-05-23 01:03:11,829 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-23 01:03:14,010 - INFO - ====== WebDriver manager ======
+2026-05-23 01:03:14,811 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 01:03:16,159 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-23 01:03:18,558 - INFO - Nykaa website opened successfully
+2026-05-23 01:03:19,063 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 01:03:19,064 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_010318_20260523_010318.png
+2026-05-23 01:03:22,613 - INFO - Search initiated for : Cologne
+2026-05-23 01:03:27,844 - INFO - STEP EXECUTED : User searches fragrance product "Cologne"
+2026-05-23 01:03:27,844 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Cologne_010327_20260523_010327.png
+2026-05-23 01:03:27,882 - INFO - Search results validated successfully for Cologne
+2026-05-23 01:03:28,071 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 01:03:28,071 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_010327_20260523_010327.png
+2026-05-23 01:03:28,072 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-23 01:03:30,267 - INFO - ====== WebDriver manager ======
+2026-05-23 01:03:31,108 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 01:03:32,473 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-23 01:03:35,447 - INFO - Nykaa website opened successfully
+2026-05-23 01:03:35,857 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 01:03:35,858 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_010335_20260523_010335.png
+2026-05-23 01:03:38,856 - INFO - Search initiated for : @@@@@@@
+2026-05-23 01:03:44,068 - INFO - STEP EXECUTED : User searches fragrance product "@@@@@@@"
+2026-05-23 01:03:44,068 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product @@@@@@@_010343_20260523_010343.png
+2026-05-23 01:03:44,252 - INFO - Invalid search validated successfully for @@@@@@@
+2026-05-23 01:03:44,398 - INFO - STEP EXECUTED : Invalid search message should appear
+2026-05-23 01:03:44,398 - INFO - SCREENSHOT SAVED : screenshots/Invalid search message should appear_010344_20260523_010344.png
+2026-05-23 01:03:44,399 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-23 01:03:46,618 - INFO - ====== WebDriver manager ======
+2026-05-23 01:03:47,489 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 01:03:48,766 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-23 01:04:15,218 - INFO - Nykaa website opened successfully
+2026-05-23 01:04:15,732 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 01:04:15,732 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_010415_20260523_010415.png
+2026-05-23 01:04:19,502 - INFO - Search initiated for : invalidproduct
+2026-05-23 01:04:24,781 - INFO - STEP EXECUTED : User searches fragrance product "invalidproduct"
+2026-05-23 01:04:24,781 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product invalidproduct_010424_20260523_010424.png
+2026-05-23 01:04:24,992 - INFO - Invalid search validated successfully for invalidproduct
+2026-05-23 01:04:25,215 - INFO - STEP EXECUTED : Invalid search message should appear
+2026-05-23 01:04:25,216 - INFO - SCREENSHOT SAVED : screenshots/Invalid search message should appear_010424_20260523_010424.png
+2026-05-23 01:04:25,217 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-23 01:04:40,351 - INFO - ====== WebDriver manager ======
+2026-05-23 01:04:40,941 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 01:04:42,276 - INFO - STARTED SCENARIO : Complete fragrance purchase flow
+2026-05-23 01:04:45,716 - INFO - Nykaa website opened successfully
+2026-05-23 01:04:46,076 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 01:04:46,076 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_010445_20260523_010445.png
+2026-05-23 01:04:49,786 - INFO - Product searched : Perfume
+2026-05-23 01:04:55,102 - INFO - STEP EXECUTED : User searches for "Perfume"
+2026-05-23 01:04:55,103 - INFO - SCREENSHOT SAVED : screenshots/User searches for Perfume_010454_20260523_010454.png
+2026-05-23 01:05:00,364 - INFO - First fragrance selected successfully
+2026-05-23 01:05:05,609 - INFO - STEP EXECUTED : User selects first fragrance
+2026-05-23 01:05:05,609 - INFO - SCREENSHOT SAVED : screenshots/User selects first fragrance_010505_20260523_010505.png
+2026-05-23 01:05:05,694 - INFO - Product title verified : Victoria's Secret Bombshell Eau De Parfum
+(100ml)
+2026-05-23 01:05:05,916 - INFO - STEP EXECUTED : Product title should be visible
+2026-05-23 01:05:05,916 - INFO - SCREENSHOT SAVED : screenshots/Product title should be visible_010505_20260523_010505.png
+2026-05-23 01:05:12,975 - INFO - Product added to cart successfully
+2026-05-23 01:05:18,159 - INFO - STEP EXECUTED : User adds product to cart
+2026-05-23 01:05:18,159 - INFO - SCREENSHOT SAVED : screenshots/User adds product to cart_010517_20260523_010517.png
+2026-05-23 01:05:18,329 - INFO - Product addition verified
+2026-05-23 01:05:18,530 - INFO - STEP EXECUTED : Product should be added successfully
+2026-05-23 01:05:18,530 - INFO - SCREENSHOT SAVED : screenshots/Product should be added successfully_010518_20260523_010518.png
+2026-05-23 01:05:26,448 - INFO - Shopping cart opened successfully
+2026-05-23 01:05:31,628 - INFO - STEP EXECUTED : User opens shopping cart
+2026-05-23 01:05:31,629 - INFO - SCREENSHOT SAVED : screenshots/User opens shopping cart_010531_20260523_010531.png
+2026-05-23 01:05:31,788 - INFO - Shopping cart page verified successfully
+2026-05-23 01:05:31,966 - INFO - STEP EXECUTED : Shopping cart page should be displayed
+2026-05-23 01:05:31,967 - INFO - SCREENSHOT SAVED : screenshots/Shopping cart page should be displayed_010531_20260523_010531.png
+2026-05-23 01:05:37,177 - INFO - Order summary verified successfully
+2026-05-23 01:05:37,382 - INFO - STEP EXECUTED : User views order summary
+2026-05-23 01:05:37,382 - INFO - SCREENSHOT SAVED : screenshots/User views order summary_010537_20260523_010537.png
+2026-05-23 01:05:44,257 - INFO - Checkout related button clicked : beauty bonanza get your amazing deals
+mobile icon
+get app
+address icon
+store & events
+giftcard icon
+gift card
+help icon
+help
+nykaa logo
+categories
+brands
+luxe
+nykaa fashion
+beauty advice
+sign in
+1
+makeup
+skin
+hair
+appliances
+bath & body
+natural
+mom & baby
+health & wellness
+men
+fragrance
+lingerie & accessories
+home
+\u276f
+brand
+\u276f
+carte blanche
+thanks for visiting our website!
+we looked all over, but that page seems to have gotten away from us.
+back to home
+for any help, you may call us at
+1800-267-4444
+(all days, 8 am to 10 pm)
+nykaa logo
+who are we?
+careers
+authenticity
+press
+testimonials
+nykaa csr
+sustainability
+responsible disclosure
+investor relations
+link to smart odr
+help
+contact us
+frequently asked questions
+store locator
+cancellation & return
+shipping & delivery
+sell on nykaa
+inspire me
+beauty book
+games board
+buying guides
+quick links
+offer zone
+new launches
+nykaa man
+nykaa fashion
+nykaa pro
+sitemap
+top categories
+makeup
+skin
+hair
+bath & body
+appliances
+mom and baby
+health & wellness
+fragrance
+natural
+luxe
+free shipping
+on orders above \u20b9299
+easy returns
+15-day return policy
+100% authentic
+products sourced directly
+1900+ brands
+1.2 lakh+ products
+show us some love \u2764 on social media
+carte blanche price list
+carte blanche price list - product names and prices as of may 23, 2026
+carte blanche
+price
+last updated: may 23, 2026
+terms & conditionsshipping policycancellation policyprivacy policy
+? 2026 nykaa e-retail limited all rights reserved.
+popular links
+lipstick,highlighter,hair serum,concealer,face mask,biotique,lip gloss,perfume for women,facial kit,bb cream,victoria secret,love beauty and planet shampoo,eyeliner,hair mask,face wash for oily skin,ordinary,toner,eyeshadow palette,cleanser,chemist at play,mascara,loreal professional,hair extensions,olay cream,fogg,lip tint,under eye cream,wax strips,shower gel,sunscreen for face,insight cosmetics,face foundation,hair removal machine,mac foundation,choker,oud perfume,makeup pouch,olaplex,body mist,wella shampoo,huda beauty foundation,night cream,facewash,nyx,schwarzkopf shampoo,blue heaven,peel off mask,best lip balm,face scrub,cetaphil face wash,mederma cream,multivitamins tablet,himalaya face wash,garnier face wash,hair color for women,cetaphil moisturizers,ponds face wash,streax hair serum,nivea body lotions,vaseline body lotions,sugar lipstick,biotin tablet,aqualogica sunscreen,salicylic acid face wash,fogg perfume,clean and clear face wash,neutrogena sunscreen,pears soaps,hair color for men,dry cleansers,face serum
+how may we help you
+2026-05-23 01:05:44,258 - INFO - Proceed to checkout validation successful
+2026-05-23 01:05:49,430 - INFO - STEP EXECUTED : User proceeds to checkout
+2026-05-23 01:05:49,431 - INFO - SCREENSHOT SAVED : screenshots/User proceeds to checkout_010549_20260523_010549.png
+2026-05-23 01:05:49,450 - INFO - Complete End To End flow verified successfully
+2026-05-23 01:05:49,631 - INFO - STEP EXECUTED : Order confirmation process should be verified
+2026-05-23 01:05:49,631 - INFO - SCREENSHOT SAVED : screenshots/Order confirmation process should be verified_010549_20260523_010549.png
+2026-05-23 01:05:49,632 - INFO - ENDED SCENARIO : Complete fragrance purchase flow
+2026-05-23 01:05:51,932 - INFO - ====== WebDriver manager ======
+2026-05-23 01:05:52,773 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 01:05:54,081 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-23 01:06:00,310 - INFO - Nykaa website opened successfully
+2026-05-23 01:06:00,665 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 01:06:00,665 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_010600_20260523_010600.png
+2026-05-23 01:06:04,608 - INFO - Search initiated for : Perfume
+2026-05-23 01:06:09,820 - INFO - STEP EXECUTED : User searches fragrance product "Perfume"
+2026-05-23 01:06:09,820 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Perfume_010609_20260523_010609.png
+2026-05-23 01:06:09,848 - INFO - Search results validated successfully for Perfume
+2026-05-23 01:06:09,986 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 01:06:09,986 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_010609_20260523_010609.png
+2026-05-23 01:06:09,987 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-23 01:06:12,197 - INFO - ====== WebDriver manager ======
+2026-05-23 01:06:13,015 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 01:06:14,426 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-23 01:06:17,400 - INFO - Nykaa website opened successfully
+2026-05-23 01:06:17,807 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 01:06:17,807 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_010617_20260523_010617.png
+2026-05-23 01:06:21,502 - INFO - Search initiated for : Dior
+2026-05-23 01:06:26,872 - INFO - STEP EXECUTED : User searches fragrance product "Dior"
+2026-05-23 01:06:26,872 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Dior_010626_20260523_010626.png
+2026-05-23 01:06:26,905 - INFO - Search results validated successfully for Dior
+2026-05-23 01:06:27,146 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 01:06:27,146 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_010626_20260523_010626.png
+2026-05-23 01:06:27,147 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-23 01:06:29,352 - INFO - ====== WebDriver manager ======
+2026-05-23 01:06:30,099 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 01:06:31,370 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-23 01:06:33,132 - INFO - Nykaa website opened successfully
+2026-05-23 01:06:33,680 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 01:06:33,681 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_010633_20260523_010633.png
+2026-05-23 01:06:38,271 - INFO - Search initiated for : Gucci
+2026-05-23 01:06:43,575 - INFO - STEP EXECUTED : User searches fragrance product "Gucci"
+2026-05-23 01:06:43,575 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Gucci_010643_20260523_010643.png
+2026-05-23 01:06:43,616 - INFO - Search results validated successfully for Gucci
+2026-05-23 01:06:43,907 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 01:06:43,908 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_010643_20260523_010643.png
+2026-05-23 01:06:43,908 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-23 01:06:46,121 - INFO - ====== WebDriver manager ======
+2026-05-23 01:06:46,951 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 01:06:48,293 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-23 01:06:51,120 - INFO - Nykaa website opened successfully
+2026-05-23 01:06:51,502 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 01:06:51,502 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_010651_20260523_010651.png
+2026-05-23 01:06:55,087 - INFO - Search initiated for : Cologne
+2026-05-23 01:07:00,439 - INFO - STEP EXECUTED : User searches fragrance product "Cologne"
+2026-05-23 01:07:00,440 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Cologne_010700_20260523_010700.png
+2026-05-23 01:07:00,481 - INFO - Search results validated successfully for Cologne
+2026-05-23 01:07:00,695 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 01:07:00,695 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_010700_20260523_010700.png
+2026-05-23 01:07:00,696 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-23 01:07:02,905 - INFO - ====== WebDriver manager ======
+2026-05-23 01:07:03,710 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 01:07:05,013 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-23 01:07:07,952 - INFO - Nykaa website opened successfully
+2026-05-23 01:07:08,340 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 01:07:08,341 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_010707_20260523_010707.png
+2026-05-23 01:07:11,281 - INFO - Search initiated for : @@@@@@@
+2026-05-23 01:07:16,479 - INFO - STEP EXECUTED : User searches fragrance product "@@@@@@@"
+2026-05-23 01:07:16,480 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product @@@@@@@_010716_20260523_010716.png
+2026-05-23 01:07:16,664 - INFO - Invalid search validated successfully for @@@@@@@
+2026-05-23 01:07:16,850 - INFO - STEP EXECUTED : Invalid search message should appear
+2026-05-23 01:07:16,851 - INFO - SCREENSHOT SAVED : screenshots/Invalid search message should appear_010716_20260523_010716.png
+2026-05-23 01:07:16,851 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-23 01:07:19,035 - INFO - ====== WebDriver manager ======
+2026-05-23 01:07:19,804 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 01:07:21,099 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-23 01:07:23,470 - INFO - Nykaa website opened successfully
+2026-05-23 01:07:23,999 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 01:07:23,999 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_010723_20260523_010723.png
+2026-05-23 01:07:27,386 - INFO - Search initiated for : invalidproduct
+2026-05-23 01:07:32,597 - INFO - STEP EXECUTED : User searches fragrance product "invalidproduct"
+2026-05-23 01:07:32,597 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product invalidproduct_010732_20260523_010732.png
+2026-05-23 01:07:32,777 - INFO - Invalid search validated successfully for invalidproduct
+2026-05-23 01:07:32,980 - INFO - STEP EXECUTED : Invalid search message should appear
+2026-05-23 01:07:32,981 - INFO - SCREENSHOT SAVED : screenshots/Invalid search message should appear_010732_20260523_010732.png
+2026-05-23 01:07:32,982 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-23 01:17:31,237 - INFO - ====== WebDriver manager ======
+2026-05-23 01:17:31,976 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 01:17:33,167 - INFO - STARTED SCENARIO : Complete fragrance purchase flow
+2026-05-23 01:17:36,285 - INFO - Nykaa website opened successfully
+2026-05-23 01:17:36,633 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 01:17:36,633 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_011736_20260523_011736.png
+2026-05-23 01:17:40,541 - INFO - Product searched : Perfume
+2026-05-23 01:17:45,755 - INFO - STEP EXECUTED : User searches for "Perfume"
+2026-05-23 01:17:45,755 - INFO - SCREENSHOT SAVED : screenshots/User searches for Perfume_011745_20260523_011745.png
+2026-05-23 01:17:51,062 - INFO - First fragrance selected successfully
+2026-05-23 01:17:56,304 - INFO - STEP EXECUTED : User selects first fragrance
+2026-05-23 01:17:56,304 - INFO - SCREENSHOT SAVED : screenshots/User selects first fragrance_011756_20260523_011756.png
+2026-05-23 01:17:56,371 - INFO - Product title verified : Victoria's Secret Bombshell Eau De Parfum
+(100ml)
+2026-05-23 01:17:56,571 - INFO - STEP EXECUTED : Product title should be visible
+2026-05-23 01:17:56,571 - INFO - SCREENSHOT SAVED : screenshots/Product title should be visible_011756_20260523_011756.png
+2026-05-23 01:18:03,638 - INFO - Product added to cart successfully
+2026-05-23 01:18:08,795 - INFO - STEP EXECUTED : User adds product to cart
+2026-05-23 01:18:08,795 - INFO - SCREENSHOT SAVED : screenshots/User adds product to cart_011808_20260523_011808.png
+2026-05-23 01:19:38,339 - INFO - STEP EXECUTED : User opens shopping bag
+2026-05-23 01:19:38,340 - INFO - SCREENSHOT SAVED : screenshots/User opens shopping bag_011937_20260523_011937.png
+2026-05-23 01:19:38,341 - INFO - ENDED SCENARIO : Complete fragrance purchase flow
+2026-05-23 01:19:40,791 - INFO - ====== WebDriver manager ======
+2026-05-23 01:19:41,776 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 01:19:43,045 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-23 01:19:45,435 - INFO - Nykaa website opened successfully
+2026-05-23 01:19:45,753 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 01:19:45,753 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_011945_20260523_011945.png
+2026-05-23 09:02:54,627 - INFO - ====== WebDriver manager ======
+2026-05-23 09:02:55,178 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 09:02:56,002 - INFO - STARTED SCENARIO : Complete fragrance purchase flow
+2026-05-23 09:02:57,342 - INFO - Nykaa website opened successfully
+2026-05-23 09:02:58,010 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 09:02:58,010 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_090257_20260523_090257.png
+2026-05-23 09:03:02,044 - INFO - Product searched : Perfume
+2026-05-23 09:03:07,216 - INFO - STEP EXECUTED : User searches for "Perfume"
+2026-05-23 09:03:07,216 - INFO - SCREENSHOT SAVED : screenshots/User searches for Perfume_090307_20260523_090307.png
+2026-05-23 09:03:12,591 - INFO - First fragrance selected successfully
+2026-05-23 09:03:17,798 - INFO - STEP EXECUTED : User selects first fragrance
+2026-05-23 09:03:17,798 - INFO - SCREENSHOT SAVED : screenshots/User selects first fragrance_090317_20260523_090317.png
+2026-05-23 09:03:17,844 - INFO - Product title verified : Victoria's Secret Bombshell Eau De Parfum
+(100ml)
+2026-05-23 09:03:18,054 - INFO - STEP EXECUTED : Product title should be visible
+2026-05-23 09:03:18,054 - INFO - SCREENSHOT SAVED : screenshots/Product title should be visible_090317_20260523_090317.png
+2026-05-23 09:03:25,106 - INFO - Product added to cart successfully
+2026-05-23 09:03:30,271 - INFO - STEP EXECUTED : User adds product to cart
+2026-05-23 09:03:30,271 - INFO - SCREENSHOT SAVED : screenshots/User adds product to cart_090330_20260523_090330.png
+2026-05-23 09:03:30,424 - INFO - Product addition verified
+2026-05-23 09:03:30,570 - INFO - STEP EXECUTED : Product should be added successfully
+2026-05-23 09:03:30,571 - INFO - SCREENSHOT SAVED : screenshots/Product should be added successfully_090330_20260523_090330.png
+2026-05-23 09:03:38,716 - INFO - Shopping cart opened successfully
+2026-05-23 09:03:43,908 - INFO - STEP EXECUTED : User opens shopping cart
+2026-05-23 09:03:43,908 - INFO - SCREENSHOT SAVED : screenshots/User opens shopping cart_090343_20260523_090343.png
+2026-05-23 09:03:44,061 - INFO - Shopping cart page verified successfully
+2026-05-23 09:03:44,235 - INFO - STEP EXECUTED : Shopping cart page should be displayed
+2026-05-23 09:03:44,235 - INFO - SCREENSHOT SAVED : screenshots/Shopping cart page should be displayed_090344_20260523_090344.png
+2026-05-23 09:03:49,348 - INFO - Order summary verified successfully
+2026-05-23 09:03:49,496 - INFO - STEP EXECUTED : User views order summary
+2026-05-23 09:03:49,497 - INFO - SCREENSHOT SAVED : screenshots/User views order summary_090349_20260523_090349.png
+2026-05-23 09:03:56,328 - INFO - Checkout related button clicked : beauty bonanza get your amazing deals
+mobile icon
+get app
+address icon
+store & events
+giftcard icon
+gift card
+help icon
+help
+nykaa logo
+categories
+brands
+luxe
+nykaa fashion
+beauty advice
+sign in
+1
+makeup
+skin
+hair
+appliances
+bath & body
+natural
+mom & baby
+health & wellness
+men
+fragrance
+lingerie & accessories
+home
+\u276f
+brand
+\u276f
+carte blanche
+thanks for visiting our website!
+we looked all over, but that page seems to have gotten away from us.
+back to home
+for any help, you may call us at
+1800-267-4444
+(all days, 8 am to 10 pm)
+nykaa logo
+who are we?
+careers
+authenticity
+press
+testimonials
+nykaa csr
+sustainability
+responsible disclosure
+investor relations
+link to smart odr
+help
+contact us
+frequently asked questions
+store locator
+cancellation & return
+shipping & delivery
+sell on nykaa
+inspire me
+beauty book
+games board
+buying guides
+quick links
+offer zone
+new launches
+nykaa man
+nykaa fashion
+nykaa pro
+sitemap
+top categories
+makeup
+skin
+hair
+bath & body
+appliances
+mom and baby
+health & wellness
+fragrance
+natural
+luxe
+free shipping
+on orders above \u20b9299
+easy returns
+15-day return policy
+100% authentic
+products sourced directly
+1900+ brands
+1.2 lakh+ products
+show us some love \u2764 on social media
+carte blanche price list
+carte blanche price list - product names and prices as of may 23, 2026
+carte blanche
+price
+last updated: may 23, 2026
+terms & conditionsshipping policycancellation policyprivacy policy
+© 2026 nykaa e-retail limited all rights reserved.
+popular links
+lipstick,highlighter,hair serum,concealer,face mask,biotique,lip gloss,perfume for women,facial kit,bb cream,victoria secret,love beauty and planet shampoo,eyeliner,hair mask,face wash for oily skin,ordinary,toner,eyeshadow palette,cleanser,chemist at play,mascara,loreal professional,hair extensions,olay cream,fogg,lip tint,under eye cream,wax strips,shower gel,sunscreen for face,insight cosmetics,face foundation,hair removal machine,mac foundation,choker,oud perfume,makeup pouch,olaplex,body mist,wella shampoo,huda beauty foundation,night cream,facewash,nyx,schwarzkopf shampoo,blue heaven,peel off mask,best lip balm,face scrub,cetaphil face wash,mederma cream,multivitamins tablet,himalaya face wash,garnier face wash,hair color for women,cetaphil moisturizers,ponds face wash,streax hair serum,nivea body lotions,vaseline body lotions,sugar lipstick,biotin tablet,aqualogica sunscreen,salicylic acid face wash,fogg perfume,clean and clear face wash,neutrogena sunscreen,pears soaps,hair color for men,dry cleansers,face serum
+how may we help you
+2026-05-23 09:03:56,329 - INFO - Proceed to checkout validation successful
+2026-05-23 09:04:01,499 - INFO - STEP EXECUTED : User proceeds to checkout
+2026-05-23 09:04:01,499 - INFO - SCREENSHOT SAVED : screenshots/User proceeds to checkout_090401_20260523_090401.png
+2026-05-23 09:04:01,515 - INFO - Complete End To End flow verified successfully
+2026-05-23 09:04:01,679 - INFO - STEP EXECUTED : Order confirmation process should be verified
+2026-05-23 09:04:01,679 - INFO - SCREENSHOT SAVED : screenshots/Order confirmation process should be verified_090401_20260523_090401.png
+2026-05-23 09:04:01,680 - INFO - ENDED SCENARIO : Complete fragrance purchase flow
+2026-05-23 09:04:03,942 - INFO - ====== WebDriver manager ======
+2026-05-23 09:04:04,615 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 09:04:05,981 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-23 09:04:07,461 - INFO - Nykaa website opened successfully
+2026-05-23 09:04:08,078 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 09:04:08,078 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_090407_20260523_090407.png
+2026-05-23 09:04:11,947 - INFO - Search initiated for : Perfume
+2026-05-23 09:04:17,125 - INFO - STEP EXECUTED : User searches fragrance product "Perfume"
+2026-05-23 09:04:17,125 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Perfume_090416_20260523_090416.png
+2026-05-23 09:04:17,147 - INFO - Search results validated successfully for Perfume
+2026-05-23 09:04:17,352 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 09:04:17,352 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_090417_20260523_090417.png
+2026-05-23 09:04:17,353 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.1 
+2026-05-23 09:04:19,561 - INFO - ====== WebDriver manager ======
+2026-05-23 09:04:20,284 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 09:04:21,610 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-23 09:04:22,781 - INFO - Nykaa website opened successfully
+2026-05-23 09:04:23,124 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 09:04:23,124 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_090422_20260523_090422.png
+2026-05-23 09:04:26,892 - INFO - Search initiated for : Dior
+2026-05-23 09:04:32,163 - INFO - STEP EXECUTED : User searches fragrance product "Dior"
+2026-05-23 09:04:32,163 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Dior_090431_20260523_090431.png
+2026-05-23 09:04:32,199 - INFO - Search results validated successfully for Dior
+2026-05-23 09:04:32,440 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 09:04:32,441 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_090432_20260523_090432.png
+2026-05-23 09:04:32,441 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.2 
+2026-05-23 09:04:34,595 - INFO - ====== WebDriver manager ======
+2026-05-23 09:04:35,263 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 09:04:36,587 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-23 09:04:37,912 - INFO - Nykaa website opened successfully
+2026-05-23 09:04:38,157 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 09:04:38,158 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_090437_20260523_090437.png
+2026-05-23 09:04:42,559 - INFO - Search initiated for : Gucci
+2026-05-23 09:04:47,953 - INFO - STEP EXECUTED : User searches fragrance product "Gucci"
+2026-05-23 09:04:47,953 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Gucci_090447_20260523_090447.png
+2026-05-23 09:04:47,991 - INFO - Search results validated successfully for Gucci
+2026-05-23 09:04:48,273 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 09:04:48,274 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_090447_20260523_090447.png
+2026-05-23 09:04:48,275 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.3 
+2026-05-23 09:04:50,437 - INFO - ====== WebDriver manager ======
+2026-05-23 09:04:51,206 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 09:04:52,596 - INFO - STARTED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-23 09:04:53,829 - INFO - Nykaa website opened successfully
+2026-05-23 09:04:54,158 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 09:04:54,159 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_090453_20260523_090453.png
+2026-05-23 09:04:58,121 - INFO - Search initiated for : Cologne
+2026-05-23 09:05:03,360 - INFO - STEP EXECUTED : User searches fragrance product "Cologne"
+2026-05-23 09:05:03,361 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product Cologne_090503_20260523_090503.png
+2026-05-23 09:05:03,391 - INFO - Search results validated successfully for Cologne
+2026-05-23 09:05:03,666 - INFO - STEP EXECUTED : Search results should appear
+2026-05-23 09:05:03,667 - INFO - SCREENSHOT SAVED : screenshots/Search results should appear_090503_20260523_090503.png
+2026-05-23 09:05:03,668 - INFO - ENDED SCENARIO : Positive Product Search Validation -- @1.4 
+2026-05-23 09:05:05,896 - INFO - ====== WebDriver manager ======
+2026-05-23 09:05:06,569 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 09:05:07,686 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-23 09:05:09,053 - INFO - Nykaa website opened successfully
+2026-05-23 09:05:09,373 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 09:05:09,373 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_090509_20260523_090509.png
+2026-05-23 09:05:12,683 - INFO - Search initiated for : @@@@@@@
+2026-05-23 09:05:17,894 - INFO - STEP EXECUTED : User searches fragrance product "@@@@@@@"
+2026-05-23 09:05:17,894 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product @@@@@@@_090517_20260523_090517.png
+2026-05-23 09:05:18,080 - INFO - Invalid search validated successfully for @@@@@@@
+2026-05-23 09:05:18,287 - INFO - STEP EXECUTED : Invalid search message should appear
+2026-05-23 09:05:18,288 - INFO - SCREENSHOT SAVED : screenshots/Invalid search message should appear_090518_20260523_090518.png
+2026-05-23 09:05:18,289 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.1 
+2026-05-23 09:05:20,447 - INFO - ====== WebDriver manager ======
+2026-05-23 09:05:21,247 - INFO - Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 09:05:22,594 - INFO - STARTED SCENARIO : Negative Product Search Validation -- @1.2 
+2026-05-23 09:05:24,009 - INFO - Nykaa website opened successfully
+2026-05-23 09:05:24,636 - INFO - STEP EXECUTED : User opens Nykaa website
+2026-05-23 09:05:24,636 - INFO - SCREENSHOT SAVED : screenshots/User opens Nykaa website_090524_20260523_090524.png
+2026-05-23 09:05:28,181 - INFO - Search initiated for : invalidproduct
+2026-05-23 09:05:33,403 - INFO - STEP EXECUTED : User searches fragrance product "invalidproduct"
+2026-05-23 09:05:33,403 - INFO - SCREENSHOT SAVED : screenshots/User searches fragrance product invalidproduct_090533_20260523_090533.png
+2026-05-23 09:05:33,577 - INFO - Invalid search validated successfully for invalidproduct
+2026-05-23 09:05:33,726 - INFO - STEP EXECUTED : Invalid search message should appear
+2026-05-23 09:05:33,726 - INFO - SCREENSHOT SAVED : screenshots/Invalid search message should appear_090533_20260523_090533.png
+2026-05-23 09:05:33,727 - INFO - ENDED SCENARIO : Negative Product Search Validation -- @1.2 

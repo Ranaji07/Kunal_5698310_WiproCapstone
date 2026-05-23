@@ -1,0 +1,7 @@
+testcase	product 	expected
+positive	perfume	    success
+positive	deodorant	success
+positive	body mist	success
+positive	attar	    success
+negative	xyzinvalid	fail
+negative		        fail

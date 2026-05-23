@@ -178,3 +178,203 @@
 2026-05-20 13:24:15,901 : INFO : Get LATEST chromedriver version for google-chrome
 2026-05-20 13:24:16,266 : INFO : Get LATEST chromedriver version for google-chrome
 2026-05-20 13:24:16,636 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:24:24,352 : INFO : ====== WebDriver manager ======
+2026-05-20 22:24:25,342 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:24:25,951 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:24:26,365 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:24:29,494 : INFO : Homepage test started
+2026-05-20 22:24:31,888 : INFO : ====== WebDriver manager ======
+2026-05-20 22:24:32,823 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:24:33,229 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:24:33,618 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:24:44,381 : WARNING : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59485): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/babb77973caf510ca08466d6541978f7/screenshot
+2026-05-20 22:24:48,509 : WARNING : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59485): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/babb77973caf510ca08466d6541978f7/screenshot
+2026-05-20 22:24:52,611 : WARNING : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59485): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/babb77973caf510ca08466d6541978f7/screenshot
+2026-05-20 22:24:56,836 : INFO : ====== WebDriver manager ======
+2026-05-20 22:24:57,809 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:24:58,246 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:24:58,666 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:25:17,107 : WARNING : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64933): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/4daa3592ecc6a9f16e85b9ec24c8ef7c/screenshot
+2026-05-20 22:25:21,171 : WARNING : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64933): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/4daa3592ecc6a9f16e85b9ec24c8ef7c/screenshot
+2026-05-20 22:25:25,217 : WARNING : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64933): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/4daa3592ecc6a9f16e85b9ec24c8ef7c/screenshot
+2026-05-20 22:25:29,416 : INFO : ====== WebDriver manager ======
+2026-05-20 22:25:30,408 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:25:30,856 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:25:31,259 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:25:52,708 : WARNING : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51103): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/9089546dab0d8619549965d88eb066bb/screenshot
+2026-05-20 22:25:56,821 : WARNING : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51103): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/9089546dab0d8619549965d88eb066bb/screenshot
+2026-05-20 22:26:00,918 : WARNING : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51103): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/9089546dab0d8619549965d88eb066bb/screenshot
+2026-05-20 22:32:23,721 : INFO : ====== WebDriver manager ======
+2026-05-20 22:32:24,962 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:32:26,230 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:32:26,587 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:38:57,260 : INFO : ====== WebDriver manager ======
+2026-05-20 22:38:58,499 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:38:58,958 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:38:59,319 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:39:23,253 : INFO : ====== WebDriver manager ======
+2026-05-20 22:39:24,098 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:39:24,467 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:39:24,822 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:39:34,482 : WARNING : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51974): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/1294457a4be66842c826344fbf6e5ee9/screenshot
+2026-05-20 22:39:38,545 : WARNING : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51974): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/1294457a4be66842c826344fbf6e5ee9/screenshot
+2026-05-20 22:39:42,672 : WARNING : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51974): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/1294457a4be66842c826344fbf6e5ee9/screenshot
+2026-05-20 22:42:07,624 : INFO : ====== WebDriver manager ======
+2026-05-20 22:42:08,707 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:42:09,108 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:42:09,492 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:42:18,768 : WARNING : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=60314): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/e279240d0aea88fa846e6d9501431e9b/screenshot
+2026-05-20 22:42:22,836 : WARNING : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=60314): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/e279240d0aea88fa846e6d9501431e9b/screenshot
+2026-05-20 22:42:26,955 : WARNING : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=60314): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/e279240d0aea88fa846e6d9501431e9b/screenshot
+2026-05-20 22:43:52,475 : INFO : ====== WebDriver manager ======
+2026-05-20 22:43:53,286 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:43:53,670 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:43:54,053 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:44:03,347 : WARNING : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=63189): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/685cea9c060a675074994a9e79f14af7/screenshot
+2026-05-20 22:44:07,390 : WARNING : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=63189): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/685cea9c060a675074994a9e79f14af7/screenshot
+2026-05-20 22:44:11,472 : WARNING : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=63189): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/685cea9c060a675074994a9e79f14af7/screenshot
+2026-05-20 22:46:11,286 : INFO : ====== WebDriver manager ======
+2026-05-20 22:46:12,134 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:46:12,561 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:46:12,978 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:46:15,986 : INFO : Homepage test started
+2026-05-20 22:46:18,401 : INFO : ====== WebDriver manager ======
+2026-05-20 22:46:19,233 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:46:19,649 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:46:20,056 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:46:29,340 : WARNING : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=56695): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/88b13542cabff96ebf746353d49ede0a/screenshot
+2026-05-20 22:46:40,492 : INFO : ====== WebDriver manager ======
+2026-05-20 22:46:41,386 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:46:41,778 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:46:42,157 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:46:51,380 : WARNING : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=62382): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/a88c91ef88fb533bdeb71242dd661764/screenshot
+2026-05-20 22:46:55,424 : WARNING : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=62382): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/a88c91ef88fb533bdeb71242dd661764/screenshot
+2026-05-20 22:46:59,480 : WARNING : Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=62382): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/a88c91ef88fb533bdeb71242dd661764/screenshot
+2026-05-20 22:50:20,092 : INFO : ====== WebDriver manager ======
+2026-05-20 22:50:21,115 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:50:21,517 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:50:21,905 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:52:46,351 : INFO : ====== WebDriver manager ======
+2026-05-20 22:52:47,388 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:52:47,795 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:52:48,161 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:53:22,440 : INFO : ====== WebDriver manager ======
+2026-05-20 22:53:23,253 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:53:23,669 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:53:24,115 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:53:26,473 : INFO : Homepage test started
+2026-05-20 22:53:28,880 : INFO : ====== WebDriver manager ======
+2026-05-20 22:53:29,716 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:53:30,118 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:53:30,505 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:53:36,118 : INFO : ====== WebDriver manager ======
+2026-05-20 22:53:36,916 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:53:37,348 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:53:37,779 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:53:56,827 : INFO : ====== WebDriver manager ======
+2026-05-20 22:53:57,717 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:53:58,154 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:53:58,548 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:54:15,860 : INFO : ====== WebDriver manager ======
+2026-05-20 22:54:16,674 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:54:17,102 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:54:17,489 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:54:34,664 : INFO : ====== WebDriver manager ======
+2026-05-20 22:54:35,496 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:54:35,915 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:54:36,299 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:54:48,813 : INFO : ====== WebDriver manager ======
+2026-05-20 22:54:49,599 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:54:50,000 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:54:50,427 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:58:56,343 : INFO : ====== WebDriver manager ======
+2026-05-20 22:58:57,199 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:58:57,636 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:58:58,002 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:59:00,588 : INFO : Homepage test started
+2026-05-20 22:59:03,004 : INFO : ====== WebDriver manager ======
+2026-05-20 22:59:03,825 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:59:04,334 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:59:04,720 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:59:10,334 : INFO : ====== WebDriver manager ======
+2026-05-20 22:59:11,144 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:59:11,561 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:59:11,946 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:59:31,789 : INFO : ====== WebDriver manager ======
+2026-05-20 22:59:32,629 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:59:33,026 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:59:33,488 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 22:59:50,998 : INFO : ====== WebDriver manager ======
+2026-05-20 22:59:51,805 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:59:52,198 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 22:59:52,580 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 23:00:09,789 : INFO : ====== WebDriver manager ======
+2026-05-20 23:00:10,590 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:00:11,000 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:00:11,868 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 23:00:23,547 : INFO : ====== WebDriver manager ======
+2026-05-20 23:00:24,347 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:00:24,745 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:00:25,166 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 23:01:57,331 : INFO : ====== WebDriver manager ======
+2026-05-20 23:01:58,185 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:01:58,607 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:01:59,002 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 23:02:21,979 : INFO : ====== WebDriver manager ======
+2026-05-20 23:02:22,765 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:02:23,167 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:02:23,530 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 23:02:26,224 : INFO : Homepage test started
+2026-05-20 23:02:28,597 : INFO : ====== WebDriver manager ======
+2026-05-20 23:02:29,403 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:02:30,510 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:02:30,857 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 23:02:36,642 : INFO : ====== WebDriver manager ======
+2026-05-20 23:02:37,480 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:02:37,908 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:02:38,332 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 23:02:52,253 : INFO : ====== WebDriver manager ======
+2026-05-20 23:02:53,072 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:02:53,482 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:02:53,864 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 23:03:11,015 : INFO : ====== WebDriver manager ======
+2026-05-20 23:03:11,838 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:03:12,233 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:03:12,651 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 23:03:29,783 : INFO : ====== WebDriver manager ======
+2026-05-20 23:03:30,587 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:03:30,988 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:03:31,419 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 23:03:43,517 : INFO : ====== WebDriver manager ======
+2026-05-20 23:03:44,311 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:03:44,715 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:03:45,132 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 23:06:47,527 : INFO : ====== WebDriver manager ======
+2026-05-20 23:06:48,382 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:06:48,814 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:06:49,216 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 23:06:51,619 : INFO : Homepage test started
+2026-05-20 23:06:54,020 : INFO : ====== WebDriver manager ======
+2026-05-20 23:06:54,811 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:06:55,216 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:06:55,632 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 23:07:00,921 : INFO : ====== WebDriver manager ======
+2026-05-20 23:07:01,725 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:07:02,150 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:07:02,595 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 23:07:17,034 : INFO : ====== WebDriver manager ======
+2026-05-20 23:07:17,890 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:07:18,316 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:07:18,730 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 23:07:35,739 : INFO : ====== WebDriver manager ======
+2026-05-20 23:07:36,526 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:07:36,936 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:07:37,354 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 23:07:55,345 : INFO : ====== WebDriver manager ======
+2026-05-20 23:07:56,150 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:07:56,555 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:07:56,960 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 23:08:10,707 : INFO : ====== WebDriver manager ======
+2026-05-20 23:08:11,508 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:08:11,930 : INFO : Get LATEST chromedriver version for google-chrome
+2026-05-20 23:08:12,348 : INFO : Driver [C:\Users\kunal\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache

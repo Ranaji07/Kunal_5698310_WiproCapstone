@@ -258,7 +258,7 @@ class TestNykaaFragranceE2E:
         # STEP - TAKE SCREENSHOT
 
 
-        driver.save_screenshot("screenshots/fragrance_test.png")
+        driver.save_screenshot("screenshots/fragrance_test7.png")
 
         print("Screenshot captured")
 

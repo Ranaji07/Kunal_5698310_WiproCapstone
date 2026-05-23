@@ -9,6 +9,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 import pytest
 import time
+import os
+os.environ['WDM_LOG'] = '0'
 
 from utilities.logger import get_logger
 
@@ -53,8 +55,14 @@ class TestNykaaFragrance:
         self.wait = WebDriverWait(self.driver, 20)
 
         yield
+        self.driver.save_screenshot("screenshots/fragrance_test.png")
+
+        print("Screenshot captured")
+
+
 
         self.driver.quit()
+
 
 
     # VERIFY HOMEPAGE LOADS SUCCESSFULLY
@@ -66,7 +74,12 @@ class TestNykaaFragrance:
 
         assert "Nykaa" in self.driver.title
 
-        print("Homepage loaded successfully")
+
+        self.driver.save_screenshot("screenshots/fragrance_test1.png")
+
+        print("Screenshot captured")
+
+        print("END TO END TEST PASSED SUCCESSFULLY")
 
 
 
@@ -92,6 +105,11 @@ class TestNykaaFragrance:
         time.sleep(5)
 
         assert "Perfume" in self.driver.page_source
+        self.driver.save_screenshot("screenshots/fragrance_test2.png")
+
+        print("Screenshot captured")
+
+        print("END TO END TEST PASSED SUCCESSFULLY")
 
 
 
@@ -127,6 +145,11 @@ class TestNykaaFragrance:
         self.driver.switch_to.window(tabs[1])
 
         time.sleep(5)
+        self.driver.save_screenshot("screenshots/fragrance_test3.png")
+
+        print("Screenshot captured")
+
+        print("END TO END TEST PASSED SUCCESSFULLY")
 
 
 
@@ -170,10 +193,11 @@ class TestNykaaFragrance:
 
         add_to_bag.click()
 
+        self.driver.save_screenshot("screenshots/fragrance_test4.png")
 
+        print("Screenshot captured")
 
-        print("Product added to bag successfully")
-
+        print("END TO END TEST PASSED SUCCESSFULLY")
 
     # VERIFY INVALID SEARCH
 
@@ -197,7 +221,11 @@ class TestNykaaFragrance:
         assert "No Results" in self.driver.page_source or \
                "result" in self.driver.page_source.lower()
 
-        print("Invalid search test executed")
+        self.driver.save_screenshot("screenshots/fragrance_test5.png")
+
+        print("Screenshot captured")
+
+        print("END TO END TEST PASSED SUCCESSFULLY")
 
 
     # VERIFY INVALID MOBILE LOGIN
@@ -228,7 +256,7 @@ class TestNykaaFragrance:
         print("Invalid login test executed")
         #  - TAKE SCREENSHOT
 
-        self.driver.save_screenshot("screenshots/fragrance_test.png")
+        self.driver.save_screenshot("screenshots/fragrance_test6.png")
 
         print("Screenshot captured")
 

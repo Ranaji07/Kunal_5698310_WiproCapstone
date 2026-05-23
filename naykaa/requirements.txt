@@ -4,4 +4,7 @@ pytest
 pytest-order
 openpyxl
 allure-pytest
-utilities
+#utilities
+configparser
+gherkin-official
+behave
